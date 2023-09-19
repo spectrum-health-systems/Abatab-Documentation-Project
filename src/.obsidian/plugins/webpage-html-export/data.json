@@ -33,8 +33,20 @@
   "filesToExport": [
     [
       "_attachments/AbatabDocumentationProjectLogo.png",
+      "Source code/Core/Catalog.md",
+      "Source code/Core/DataExport.md",
+      "Source code/Core/Framework.md",
+      "Source code/Core/Logger.md",
+      "Source code/Core/Messaging.md",
+      "Source code/Core/Session.md",
+      "Source code/Core/Utlities.md",
+      "Source code/Module/ProgressNote.md",
+      "Source code/Module/Prototype.md",
+      "Source code/Module/QuickMedicationOrder.md",
+      "Source code/Module/Testing.md",
+      "Source code/Sandbox/Sandboxes.md",
       "Glossary.md",
-      "Index.md",
+      "index.md",
       "Template.md"
     ]
   ]
