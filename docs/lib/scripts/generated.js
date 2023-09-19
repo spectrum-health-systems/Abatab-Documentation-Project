@@ -1,1 +1,1 @@
-let nodes={paths:["Glossary.html","Index.html","Template.html"],nodeCount:3,linkSources:[],linkTargets:[],labels:["Glossary","Index","Template"],radii:[null,null,null],linkCount:0},attractionForce=1,linkLength=10,repulsionForce=150,centralForce=3,edgePruning=100
+let nodes={paths:["Glossary.html","index.html","Template.html"],nodeCount:3,linkSources:[],linkTargets:[],labels:["Glossary","index","Template"],radii:[null,null,null],linkCount:0},attractionForce=1,linkLength=10,repulsionForce=150,centralForce=3,edgePruning=100
