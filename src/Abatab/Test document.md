@@ -1,3 +1,5 @@
 This is a test document.
 
-[Tester](Tester.md)
+[Tester](../Docu/Tester.md)
+
+[Tester](Docu/Tester.md)

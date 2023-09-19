@@ -9,5 +9,6 @@
     "_excluded/"
   ],
   "showInlineTitle": false,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "newLinkFormat": "absolute"
 }
