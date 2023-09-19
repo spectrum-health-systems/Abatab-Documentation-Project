@@ -4,10 +4,10 @@
 
 ![](_attachments/AbatabDocumentationProjectLogo.png)
 	<h1>
-		Abatab.Core.Session
+		Abatab.Sandbox
 	</h1>
 </div>
 
 ***
 
-# About Abatab.Core.Session
+# About Abatab.Sandbox
