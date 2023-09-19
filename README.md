@@ -8,13 +8,13 @@
 
 ## `docs/`
 
-Abatab Documentation Project [release](../Abatab-Documentation-Project/docs/).
+Abatab Documentation Project [release](/docs/).
 
 Best viewed on [GitHub Pages](https://spectrum-health-systems.github.io/Abatab-Documentation-Project/).
 
-## `src/`
+## `Abatab Documentation/`
 
-Abatab Documentation Project [source](../Abatab-Documentation-Project/src/).
+Abatab Documentation Project [source](/docs//Abatab%20Documentation/).
 
 ***
 
