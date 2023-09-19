@@ -1,18 +1,18 @@
 <div align="center">
 
-![](../Abatab-Documentation-Project/.github/resources/images/logos/AbatabDocumentationProjectLogo.png)
+![](.github/resources/images/logos/AbatabDocumentationProjectLogo.png)
 
 </div>
 
 ***
 
-## `docs`
+## `docs/`
 
 Abatab Documentation Project [release](../Abatab-Documentation-Project/docs/).
 
 Best viewed on [GitHub Pages](https://spectrum-health-systems.github.io/Abatab-Documentation-Project/).
 
-## `/src`
+## `src/`
 
 Abatab Documentation Project [source](../Abatab-Documentation-Project/src/).
 
