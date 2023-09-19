@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template.md",
+                "file": "Development/Adding new settings.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template.md",
+                "file": "Development/Adding new settings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template.md",
+                "file": "Development/Adding new settings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template.md"
+                "file": "Development/Adding new settings.md"
               }
             }
           }
@@ -151,41 +151,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "c790dd26ae8b715c",
-    "type": "floating",
-    "children": [
-      {
-        "id": "7d23aec292c09147",
-        "type": "window",
-        "children": [
-          {
-            "id": "72af7b052bf7f671",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "edcd9ae51584c1d4",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 510,
-        "y": 555,
-        "width": 800,
-        "height": 400,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "76de777c420fb59d",
   "lastOpenFiles": [
+    "Template.md",
     "index.md",
     "Glossary.md",
     "Source code/Sandbox/Sandboxes.md",
@@ -200,7 +168,8 @@
     "Source code/Core/Framework.md",
     "Source code/Core/DataExport.md",
     "Source code/Core/Catalog.md",
-    "Template.md",
+    "Development/Adding new settings.md",
+    "Development",
     "Index.md",
     "_attachments/AbatabDocumentationProjectLogo.png",
     "_attachments",
@@ -213,7 +182,6 @@
     "D3",
     "Docu",
     "Abatab",
-    "_excluded",
-    "New folder"
+    "_excluded"
   ]
 }
