@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Template.md"
               }
             }
           }
@@ -167,45 +167,8 @@
                 "id": "edcd9ae51584c1d4",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Index.md",
-                    "mode": "preview",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 510,
-        "y": 555,
-        "width": 800,
-        "height": 400,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "efe87ca491c2bbc7",
-        "type": "window",
-        "children": [
-          {
-            "id": "93e76e7c0e5349cf",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "5fe2cc1eff435dc2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Index.md",
-                    "mode": "preview",
-                    "backlinks": true,
-                    "source": false
-                  }
+                  "type": "empty",
+                  "state": {}
                 }
               }
             ]
@@ -221,9 +184,22 @@
       }
     ]
   },
-  "active": "5fe2cc1eff435dc2",
+  "active": "76de777c420fb59d",
   "lastOpenFiles": [
+    "index.md",
     "Glossary.md",
+    "Source code/Sandbox/Sandboxes.md",
+    "Source code/Module/Testing.md",
+    "Source code/Module/QuickMedicationOrder.md",
+    "Source code/Module/Prototype.md",
+    "Source code/Module/ProgressNote.md",
+    "Source code/Core/Utlities.md",
+    "Source code/Core/Session.md",
+    "Source code/Core/Messaging.md",
+    "Source code/Core/Logger.md",
+    "Source code/Core/Framework.md",
+    "Source code/Core/DataExport.md",
+    "Source code/Core/Catalog.md",
     "Template.md",
     "Index.md",
     "_attachments/AbatabDocumentationProjectLogo.png",
