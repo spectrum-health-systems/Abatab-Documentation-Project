@@ -11,8 +11,13 @@
             "id": "76de777c420fb59d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Template.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Template.md"
               }
             }
           }
@@ -146,75 +151,53 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "fd6be89f452d2447",
-    "type": "floating",
-    "children": [
-      {
-        "id": "220465820e50312e",
-        "type": "window",
-        "children": [
-          {
-            "id": "d4d4f3f0f9b41391",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "201f97012d22f703",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "index.md",
-                    "mode": "preview",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1270,
-        "y": 915,
-        "width": 800,
-        "height": 400,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "201f97012d22f703",
+  "active": "76de777c420fb59d",
   "lastOpenFiles": [
+    "Development/Adding new settings.md",
+    "index.md",
+    "Unorganized documents/WebService URLs and WSDLs.md",
+    "Unorganized documents/docs/images/other/vs2019-new-project-template-800x535.png",
+    "Unorganized documents/docs/images/other/vs2019-empty-app-800x655.png",
+    "Unorganized documents/docs/images/other/vs2019-create-new-project-800x535.png",
+    "Unorganized documents/docs/images/other/vs2019-create-new-asp-app-800x540.png",
+    "Unorganized documents/docs/images/other/vs2019-configure-new-project-800x535.png",
+    "Unorganized documents/docs/images/other/vs2019-add-web-service-03-710x947.png",
+    "Unorganized documents/docs/images/other/vs2019-add-web-service-02-710x496.png",
+    "Unorganized documents/docs/images/other/vs2019-add-web-service-01-710x742.png",
+    "Unorganized documents/docs/images/other/vs2019-add-ntst-scriptlink-service-05-800x555.png",
+    "Unorganized documents/docs/images/other/vs2019-add-ntst-scriptlink-service-04-800x655.png",
+    "Unorganized documents/docs/doc/ReleaseNotes/23.0.0.html",
+    "Unorganized documents/docs/styles/search-worker.js",
+    "Unorganized documents/docs/styles/main.js",
+    "Unorganized documents/docs/styles/main.css",
+    "Unorganized documents/docs/styles/lunr.min.js",
+    "Unorganized documents/docs/styles/lunr.js",
+    "Unorganized documents/docs/styles/docfx.vendor.js",
+    "Unorganized documents/docs/styles/docfx.vendor.css",
+    "Unorganized documents/docs/styles/docfx.js",
+    "Unorganized documents/docs/styles/docfx.css",
+    "Unorganized documents/development/doc/_old_/API documentation links to appendix.md",
+    "Unorganized documents/development/doc/_old_/ThingsToTest.md",
+    "Unorganized documents/development/doc/_old_/ThingsToDocument.md",
+    "Unorganized documents/development/doc/_old_/Logging-review.md",
+    "Unorganized documents/development/doc/_old_/ReleaseInformation.md",
+    "Unorganized documents/development/doc/_old_/DevelopmentNotes.md",
+    "Unorganized documents/development/doc/_old_/development-notes.md",
+    "Unorganized documents/development/doc/_old_/CodeSnippets.md",
+    "Unorganized documents/development/doc/_old_/ClassNotes.md",
+    "Unorganized documents/development/doc/_old_/Abatab project reference detail.md",
+    "Unorganized documents/development/doc/_old_/Abatab design document.md",
+    "Unorganized documents/development/doc/Script Error messages/Script error messages.md",
+    "Unorganized documents/development/doc/Adding ScriptLink events to forms/Adding ScriptLink events to forms.md",
+    "Unorganized documents/development/doc/Adding new settings/AddingNewRunTimeSetting.md",
+    "Unorganized documents/development/doc/Abatab directory structure/Abatab directory structure.md",
+    "Unorganized documents/development/doc/Adding new settings/AddingNewLocalSetting.md",
+    "Unorganized documents/development/doc/RoadmapQueue.md",
+    "Unorganized documents/development/doc/Logging.md",
+    "Unorganized documents/development/doc/Development notes.md",
+    "Unorganized documents/development/doc/current-development-notes.md",
     "Glossary.md",
     "Source code/Sandbox/Sandboxes.md",
-    "Source code/Module/Testing.md",
-    "Source code/Module/QuickMedicationOrder.md",
-    "Source code/Module/Prototype.md",
-    "Source code/Module/ProgressNote.md",
-    "Source code/Core/Utlities.md",
-    "Source code/Core/Session.md",
-    "Source code/Core/Messaging.md",
-    "Source code/Core/Logger.md",
-    "Source code/Core/Framework.md",
-    "Source code/Core/DataExport.md",
-    "Source code/Core/Catalog.md",
-    "index.md",
-    "Template.md",
-    "Development/Adding new settings.md",
-    "Index.md",
-    "Development",
-    "_attachments/AbatabDocumentationProjectLogo.png",
-    "_attachments",
-    "Abatab/Test document.md",
-    "Docu/Tester.md",
-    "Abatab/tex2pdf.-1706bdf80f40114d/input.tex",
-    "Abatab/tex2pdf.-1706bdf80f40114d",
-    "Abatab/tex2pdf.-23e838add2a57b33",
-    "D3/tt22",
-    "D3",
-    "Docu",
-    "Abatab",
-    "_excluded"
+    "Source code/Module/Testing.md"
   ]
 }
