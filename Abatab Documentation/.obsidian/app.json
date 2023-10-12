@@ -8,5 +8,6 @@
   "userIgnoreFilters": null,
   "showInlineTitle": false,
   "useMarkdownLinks": true,
-  "newLinkFormat": "absolute"
+  "newLinkFormat": "absolute",
+  "livePreview": false
 }

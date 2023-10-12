@@ -4,16 +4,25 @@
 
 ![](_attachments/AbatabDocumentationProjectLogo.png)
 	<h1>
-		Index
+		Welcome
 	</h1>
 </div>
 
 ***
 
 ## Introduction
-The goal of the Abatab Documentation Project is to provide useful documentation for Abatab development purposes.
+The goal of the Abatab Documentation Project is to provide useful documentation for Abatab development purposes, including:
 
-  
+- Documentation on configuring and deploying Abatab
+- Documentation and guidelines for developing Abatab
+- Source code/API documentation
+	- [API documentation]([https://spectrum-health-systems.github.io/Abatab/](https://spectrum-health-systems.github.io/Abatab/))
+- TBD
+
+
+
+
+
 <!--
 
 ## Development documentation
