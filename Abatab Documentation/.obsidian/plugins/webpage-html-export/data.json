@@ -33,6 +33,7 @@
   "filesToExport": [
     [
       "_attachments/AbatabDocumentationProjectLogo.png",
+      "Development/Adding new settings.md",
       "Source code/Core/Catalog.md",
       "Source code/Core/DataExport.md",
       "Source code/Core/Framework.md",
@@ -45,6 +46,8 @@
       "Source code/Module/QuickMedicationOrder.md",
       "Source code/Module/Testing.md",
       "Source code/Sandbox/Sandboxes.md",
+      "Source code/ThirdParty/DocFX.md",
+      "Source code/ThirdParty/ScriptLinkStandard.md",
       "Glossary.md",
       "index.md",
       "Template.md"

@@ -1,4 +1,0 @@
-DocFX functionality:
-
-- Built using the main branch
-- Prior to committing do development, copy _site/ to Abatab/docs/

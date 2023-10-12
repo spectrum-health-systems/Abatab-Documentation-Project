@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template.md",
-                "mode": "preview",
+                "file": "Source code/ThirdParty/ScriptLinkStandard.md",
+                "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template.md",
+                "file": "Source code/ThirdParty/ScriptLinkStandard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template.md",
+                "file": "Source code/ThirdParty/ScriptLinkStandard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template.md"
+                "file": "Source code/ThirdParty/ScriptLinkStandard.md"
               }
             }
           }
@@ -153,8 +153,26 @@
   },
   "active": "76de777c420fb59d",
   "lastOpenFiles": [
-    "Development/Adding new settings.md",
+    "Template.md",
     "index.md",
+    "Glossary.md",
+    "Source code/ThirdParty/ScriptLinkStandard.md",
+    "Source code/ThirdParty/DocFX.md",
+    "Source code/Sandbox/Sandboxes.md",
+    "Source code/Module/Testing.md",
+    "Source code/Module/QuickMedicationOrder.md",
+    "Source code/Module/Prototype.md",
+    "Source code/Module/ProgressNote.md",
+    "Source code/Core/Utlities.md",
+    "Source code/Core/Session.md",
+    "Source code/Core/Messaging.md",
+    "Source code/Core/Logger.md",
+    "Source code/Core/Framework.md",
+    "Source code/Core/DataExport.md",
+    "Source code/Core/Catalog.md",
+    "Development/Adding new settings.md",
+    "().md",
+    "Source code/ThirdParty",
     "Unorganized documents/WebService URLs and WSDLs.md",
     "Unorganized documents/docs/images/other/vs2019-new-project-template-800x535.png",
     "Unorganized documents/docs/images/other/vs2019-empty-app-800x655.png",
@@ -175,29 +193,11 @@
     "Unorganized documents/docs/styles/docfx.vendor.js",
     "Unorganized documents/docs/styles/docfx.vendor.css",
     "Unorganized documents/docs/styles/docfx.js",
-    "Unorganized documents/docs/styles/docfx.css",
     "Unorganized documents/development/doc/_old_/API documentation links to appendix.md",
     "Unorganized documents/development/doc/_old_/ThingsToTest.md",
     "Unorganized documents/development/doc/_old_/ThingsToDocument.md",
     "Unorganized documents/development/doc/_old_/Logging-review.md",
     "Unorganized documents/development/doc/_old_/ReleaseInformation.md",
-    "Unorganized documents/development/doc/_old_/DevelopmentNotes.md",
-    "Unorganized documents/development/doc/_old_/development-notes.md",
-    "Unorganized documents/development/doc/_old_/CodeSnippets.md",
-    "Unorganized documents/development/doc/_old_/ClassNotes.md",
-    "Unorganized documents/development/doc/_old_/Abatab project reference detail.md",
-    "Unorganized documents/development/doc/_old_/Abatab design document.md",
-    "Unorganized documents/development/doc/Script Error messages/Script error messages.md",
-    "Unorganized documents/development/doc/Adding ScriptLink events to forms/Adding ScriptLink events to forms.md",
-    "Unorganized documents/development/doc/Adding new settings/AddingNewRunTimeSetting.md",
-    "Unorganized documents/development/doc/Abatab directory structure/Abatab directory structure.md",
-    "Unorganized documents/development/doc/Adding new settings/AddingNewLocalSetting.md",
-    "Unorganized documents/development/doc/RoadmapQueue.md",
-    "Unorganized documents/development/doc/Logging.md",
-    "Unorganized documents/development/doc/Development notes.md",
-    "Unorganized documents/development/doc/current-development-notes.md",
-    "Glossary.md",
-    "Source code/Sandbox/Sandboxes.md",
-    "Source code/Module/Testing.md"
+    "Unorganized documents/development/doc/_old_/DevelopmentNotes.md"
   ]
 }
