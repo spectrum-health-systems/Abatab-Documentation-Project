@@ -46,3 +46,10 @@ The following files are important to the navigation of the GitHub Pages:
 The content for the GitHub Pages [landing page](https://spectrum-health-systems.github.io/Abatab/)
 - **src/Abatab.ThirdParty/DocFx/toc.yml**  
 The header for the GitHub Pages [landing page](https://spectrum-health-systems.github.io/Abatab/)
+
+<div align="center">
+	This document is part of the [Abatab Documentation Project](../Abatab%20Documentation%20Project.md).
+	<h5>
+			Last updated: October 12, 2023
+	</h5>
+</div>
