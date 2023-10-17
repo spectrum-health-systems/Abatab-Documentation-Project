@@ -6,15 +6,21 @@
 
 ***
 
-## `docs/`
+# About the Abatab Documentation Project
 
-Abatab Documentation Project [release](/docs/).
+The Abatab Documentation Project is a living document for [Abatab](https://github.com/spectrum-health-systems/Abatab).
 
-Best viewed on [GitHub Pages](https://spectrum-health-systems.github.io/Abatab-Documentation-Project/).
+The best way to view the Abatab Documentation Project is via the repository [GitHub Pages](https://spectrum-health-systems.github.io/Abatab-Documentation-Project/).
 
 ## `Abatab Documentation/`
 
-Abatab Documentation Project [source](/docs//Abatab%20Documentation/).
+Abatab Documentation Project development source code can be found in [Abatab Documentation/](/docs//Abatab%20Documentation/).
+
+The Abatab Documentation Project is developed using [Obsidian.md](https://obsidian.md/).
+
+## `docs/`
+
+The Abatab Documentation Project release version (and source for GitHub Pages) can be found in [docs/](/docs/).
 
 ***
 
