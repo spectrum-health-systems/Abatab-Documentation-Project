@@ -38,6 +38,10 @@ To make the API documentation available to the public:
 2. Move the content in `src/ThirdParty/DocFX/_site` to `docs/`
 3. Merge the development branch with the main branch
 
+## Publishing to GitHub Pages
+
+The API documentation will automatically be published to GitHub Pages...but it may take a few minutes, so be patient!
+
 # Important DocFX files
 
 The following files are important to the navigation of the GitHub Pages:
