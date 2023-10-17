@@ -156,15 +156,15 @@
     "type": "floating",
     "children": [
       {
-        "id": "2044972448cc480f",
+        "id": "96df25d22ad3a4ab",
         "type": "window",
         "children": [
           {
-            "id": "141e54c4e6c31531",
+            "id": "753f75563547c5e5",
             "type": "tabs",
             "children": [
               {
-                "id": "4c6f75dc28e6a5e4",
+                "id": "a2c4b92e778c39c8",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -189,7 +189,7 @@
       }
     ]
   },
-  "active": "4c6f75dc28e6a5e4",
+  "active": "a2c4b92e778c39c8",
   "lastOpenFiles": [
     "Glossary.md",
     "Source code/ThirdParty/ScriptLinkStandard.md",

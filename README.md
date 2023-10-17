@@ -14,7 +14,7 @@ The best way to view the Abatab Documentation Project is via the repository [Git
 
 ## `Abatab Documentation/`
 
-Abatab Documentation Project development source code can be found in [Abatab Documentation/](/docs//Abatab%20Documentation/).
+Abatab Documentation Project development source code can be found in [Abatab Documentation/](/Abatab%20Documentation/).
 
 The Abatab Documentation Project is developed using [Obsidian.md](https://obsidian.md/).
 
