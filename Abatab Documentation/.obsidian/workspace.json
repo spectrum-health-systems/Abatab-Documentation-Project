@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Source code/ThirdParty/DocFX.md",
+                "file": "index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Source code/ThirdParty/DocFX.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Source code/ThirdParty/DocFX.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Source code/ThirdParty/DocFX.md"
+                "file": "index.md"
               }
             }
           }
@@ -151,15 +151,49 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "76de777c420fb59d",
+  "floating": {
+    "id": "235fdb90487a863b",
+    "type": "floating",
+    "children": [
+      {
+        "id": "2044972448cc480f",
+        "type": "window",
+        "children": [
+          {
+            "id": "141e54c4e6c31531",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4c6f75dc28e6a5e4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "index.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 510,
+        "y": 555,
+        "width": 800,
+        "height": 400,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "4c6f75dc28e6a5e4",
   "lastOpenFiles": [
-    "Development/Adding new settings.md",
-    "Source code/Core/Catalog.md",
-    "Source code/ThirdParty/DocFX.md",
-    "Source code/ThirdParty/ScriptLinkStandard.md",
-    "Template.md",
-    "index.md",
     "Glossary.md",
+    "Source code/ThirdParty/ScriptLinkStandard.md",
+    "Source code/ThirdParty/DocFX.md",
     "Source code/Sandbox/Sandboxes.md",
     "Source code/Module/Testing.md",
     "Source code/Module/QuickMedicationOrder.md",
@@ -171,6 +205,11 @@
     "Source code/Core/Logger.md",
     "Source code/Core/Framework.md",
     "Source code/Core/DataExport.md",
+    "Source code/Core/Catalog.md",
+    "Development/Adding new settings.md",
+    "index.md",
+    "_attachments/AbatabDocumentationProjectLogo.png",
+    "Template.md",
     "().md",
     "Source code/ThirdParty",
     "Unorganized documents/WebService URLs and WSDLs.md",
@@ -183,7 +222,6 @@
     "Unorganized documents/docs/images/other/vs2019-add-web-service-02-710x496.png",
     "Unorganized documents/docs/images/other/vs2019-add-web-service-01-710x742.png",
     "Unorganized documents/docs/images/other/vs2019-add-ntst-scriptlink-service-05-800x555.png",
-    "Unorganized documents/docs/images/other/vs2019-add-ntst-scriptlink-service-04-800x655.png",
     "Unorganized documents/docs/doc/ReleaseNotes/23.0.0.html",
     "Unorganized documents/docs/styles/search-worker.js",
     "Unorganized documents/docs/styles/main.js",
@@ -197,7 +235,6 @@
     "Unorganized documents/development/doc/_old_/ThingsToTest.md",
     "Unorganized documents/development/doc/_old_/ThingsToDocument.md",
     "Unorganized documents/development/doc/_old_/Logging-review.md",
-    "Unorganized documents/development/doc/_old_/ReleaseInformation.md",
-    "Unorganized documents/development/doc/_old_/DevelopmentNotes.md"
+    "Unorganized documents/development/doc/_old_/ReleaseInformation.md"
   ]
 }

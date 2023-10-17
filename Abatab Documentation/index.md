@@ -10,7 +10,7 @@
 
 ***
 
-## Introduction
+# About the Abatab Documentation Project
 The goal of the Abatab Documentation Project is to provide useful documentation for Abatab development purposes, including:
 
 - Documentation on configuring and deploying Abatab
@@ -18,6 +18,11 @@ The goal of the Abatab Documentation Project is to provide useful documentation 
 - Source code/API documentation
 	- [API documentation]([https://spectrum-health-systems.github.io/Abatab/](https://spectrum-health-systems.github.io/Abatab/))
 - TBD
+
+# Development
+
+The Abatab Documentation Project is developed using [Obsidian.md](https://obsidian.md/) with the following plugins:
+
 
 
 
