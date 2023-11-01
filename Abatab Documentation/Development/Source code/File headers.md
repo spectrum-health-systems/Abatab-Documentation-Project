@@ -1,7 +1,6 @@
 <!-- 
 	Abatab Documentation Project: File Headers
-	Last updated: 231030
-	This documentation is incomplete.
+	Last updated: 231101
 -->
 
 <div align="center">

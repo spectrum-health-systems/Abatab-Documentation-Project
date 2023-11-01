@@ -22,34 +22,22 @@ The Abatab [Source Code README.md file](https://github.com/spectrum-health-syste
 
 During active development, the build number is `bYYMMDD`, and is only changed to `bYYMMDD` when released.
 
-### Template
-
 ```
 <!-- 
 	Abatab Source Code Readme
 -->
 
-Abatab vYY.MM.patch-bYYMMDD.HHMM
-```
+Abatab v23.11.0-b231101
 
-### Example
+# Development Release
 
-#### During development
-```
-<!-- 
-	Abatab Source Code Readme
--->
+This is a [Development Release](https://github.com/spectrum-health-systems/Abatab) of Abatab, and is not intended for use in production environments.
 
-Abatab v23.11.0-bYYMMDD
-```
+For production environments, please see the [Abatab Community Release](https://github.com/spectrum-health-systems/Abatab-Community-Release).
 
-#### During development
-```
-<!-- 
-	Abatab Source Code Readme
--->
+For more information about Abatab, please visit the [The Abatab Documenation Project](https://spectrum-health-systems.github.io/Abatab-Documentation-Project/)
 
-Abatab v23.11.0-b231030
+Abatab is copyright (c) A Pretty Cool Program, and licensed under the Apache 2.0 license.  
 ```
 
 ## Community Release
@@ -59,17 +47,17 @@ The Abatab Community Release is based on the latest stable development release.
 #### Template
 
 ```
-# About this release
+Abatab v23.11.0-b231101
 
-This is **vYY.MM.z-community+b------** of Abatab, a custom web service/framework for myAvatar.
+# Community Release
 
-This is a [development version](https://github.com/spectrum-health-systems/Abatab) of Abatab, and is not intended for use in production environments.
+This is an Abatab [Community Release](https://github.com/spectrum-health-systems/Abatab-Community-Release).
 
-For production environments, please see the [Abatab Community Release](https://github.com/spectrum-health-systems/Abatab-Community-Release).
+For Abatab development, please see the  [Development Release](https://github.com/spectrum-health-systems/Abatab).
 
 For more information about Abatab, please visit the [The Abatab Documenation Project](https://spectrum-health-systems.github.io/Abatab-Documentation-Project/)
 
-Abatab is copyright (c) A Pretty Cool Program, and licensed under the Apache 2.0 license.  
+Abatab is copyright (c) A Pretty Cool Program, and licensed under the Apache 2.0 license.    
 ```
 
 #### Example

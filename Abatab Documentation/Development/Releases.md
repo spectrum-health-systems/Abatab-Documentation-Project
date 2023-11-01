@@ -14,12 +14,16 @@
 
 ***
 
-# Releasing a new development branch
+# Releasing a new Development Release
 
-- When commiting, the subject should be the simple build number (`bYYMMDDD`)
+## Development branch
+
+- When committing to GitHub, the subject should be the simple build number (`bYYMMDDD`)
 	- Example: `b231030`
 
-# Releasing a new main branch
+
+
+## Main branch
 
 - Modify Abatab/README.md details
 	- Modify version
