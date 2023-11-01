@@ -10,7 +10,7 @@
 
 ***
 
-- Starts a new Abatab [Glossary](../../../glossary.html#Abatab_Sessionf)
+- Starts a new Abatab [session](https://spectrum-health-systems.github.io/Abatab-Documentation-Project/glossary.html#Abatab_Sessionf)
 - `AssemblyName` is defined at the start, so it can be easily used throughout the class.
 - This class is designed to be pretty bare-bones, and hands most of the work off to other classes/methods.
 - This class should be pretty static.
