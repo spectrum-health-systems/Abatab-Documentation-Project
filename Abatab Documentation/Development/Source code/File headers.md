@@ -1,7 +1,6 @@
 <!-- 
 	Abatab Documentation Project: File Headers
-	Last updated: 231030
-	This documentation is incomplete.
+	Last updated: 231101
 -->
 
 <div align="center">
@@ -29,37 +28,10 @@ Abatab.asmx.cs is the main entry point for Abatab, so it contains the primary he
 // https://github.com/spectrum-health-systems/Abatab
 // Copyright (c) A Pretty Cool Program. All rights reserved.
 // Licensed under the Apache 2.0 license.
-// 
-// For more information, please see the Abatab Documenation Project
-// https://spectrum-health-systems.github.io/Abatab-Documentation-Project/
-// =============================================================================
-```
-
-### Development branch header
-
-The development branch Abatab.asmx.cs has an additional header:
-
-```
-// =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-// This is the development version of Abatab, and is not intended for use in
-// production environments.
 //
-// For production environments, please visit the Abatab Community Release:
-// https://github.com/spectrum-health-systems/Abatab-Community-Release
-// =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-```
-
-### Community Release header
-
-The Community Release Abatab.asmx.cs has an additional header:
-
-```
-// =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-// This is the Abatab Community Release
-// 
-// For the development version of Abatab, please visit:
-// https://github.com/spectrum-health-systems/Abatab
-// =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+// For details about this release, please see the local Source Code README.md:
+//   Abatab/README.md
+// =============================================================================
 ```
 
 ## Class header
