@@ -1,16 +1,13 @@
-<!-- This documentation is incomplete. -->
-
 <div align="center">
-
-![](_attachments/Logo/AbatabDocumentationProjectLogo.png)
-	<h1>
-		Welcome
+	<img src="_attachments/Logo/AbatabDocumentationProjectLogo.png">
+		<h1>
+			The Abatab Documentation Project
 	</h1>
 </div>
 
 ***
 
-# About the Abatab Documentation Project
+# About The Abatab Documentation Project
 
 The Abatab Documentation Project is a living document for [Abatab](https://github.com/spectrum-health-systems/Abatab).
 
@@ -55,3 +52,11 @@ When a new version of the Abatab Documentation Project is ready for release, you
 ## Merge branches
 
 Just merge the development branch with the main branch!
+
+***
+
+<div align="center">
+	This document is part of the <a href="https://spectrum-health-systems.github.io/Abatab-Documentation-Project/">Abatab Documentation Project</a>
+	<br>
+	Last updated: **November 1, 2023**
+</div>
