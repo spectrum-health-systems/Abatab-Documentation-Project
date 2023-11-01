@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![](_attachments/AbatabDocumentationProjectLogo.png)
+![](_attachments/Logo/AbatabDocumentationProjectLogo.png)
 	<h1>
 		Abatab.Module.Testing
 	</h1>
