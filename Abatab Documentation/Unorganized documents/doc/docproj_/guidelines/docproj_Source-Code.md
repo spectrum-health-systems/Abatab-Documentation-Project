@@ -1,31 +1,4 @@
-<!--
-  This documentation is incomplete.
--->
 
-<div align="center">
-
-  ![AbatabDocumentationProjectLogo](../resources/images/logos/AbatabDocumentationProjectLogo.png)
-
-  <h1>
-    Source Code
-  </h1>
-
-</div>
-
-<br>
-
-# Method calls
-
-In general, method calls should not be separated by blank lines.
-
-```csharp
-MethodOne();
-MethodTwo();
-MethodThree();
-```
-
-<br>
-<br>
 
 # Logging
 
@@ -68,71 +41,7 @@ public static void DoThing(AbSession abSession)
 }
 ```
 
-### If...then...else blocks
 
-Trace log statements should be at the top of each `if...else if...else` block, separated from the rest of the method by a blank line.
-
-```csharp
-public static void DoThing(AbSession abSession)
-{
-    LogEvent.Trace("trace", abSession, AssemblyName);
-
-    var numberOne = 1;
-
-    if (numberOne == 1 )
-    {
-        LogEvent.Trace("trace", abSession, AssemblyName);
-
-        total = 1
-    }
-    else if (numberOne == 2)
-    {
-        LogEvent.Trace("trace", abSession, AssemblyName);
-
-        total = 2
-    }
-    else
-    {
-        LogEvent.Trace("trace", abSession, AssemblyName);
-
-        total = 30
-    }
-}
-```
-
-## Switch case blocks
-
-Trace log statements should be at the top of each `switch case` block, separated from the rest of the method by a blank line.
-
-```csharp
-public static void DoThing(AbSession abSession)
-{
-    LogEvent.Trace("trace",abSession,AssemblyName);
-
-    switch (thing)
-    {
-        case "valueOne":
-            LogEvent.Trace("traceinternal",abSession,AssemblyName);
-
-            Module.Testing.Roundhouse.ParseCommand(abSession);
-
-            break;
-
-        case "valueOne":
-            LogEvent.Trace("traceinternal",abSession,AssemblyName);
-
-            Module.ProgressNote.Roundhouse.ParseCommand(abSession);
-
-            break;
-
-        default:
-
-            LogEvent.Trace("traceinternal",abSession,AssemblyName);
-
-            break;
-    }
-}
-```
 
 ## Inline code
 
@@ -154,68 +63,9 @@ public static void ParseCommand(AbSession abSession)
 }
 ```
 
-# Variable declarations
 
-Variables should be declared in their own block at the top of a method.
 
-```csharp
-public static int MethodOne()
-{
-    var numberOne = 1;
-    var numberTwo = 2;  
 
-    var total = numberOne + numberTwo;
-
-    return total;
-}
-```
-
-# If...else if...else statments
-
-```csharp
-public static void MethodOne(bool doWork)
-{
-    var numberOne = 1;
-    var numberTwo = 2;  
-    var total = 0;
-
-    if (doWork)
-    {
-        total = numberOne + numberTwo;
-    }
-    else
-    {
-        total = numberOne - numberTwo;
-    }
-
-    return total;
-}
-```
-
-# Break statements
-
-```csharp
-public static void DoThing(bool doWork)
-{
-    switch (thing)
-    {
-        case true:
-            MethodOne();
-
-            break;
-
-        case false:
-            MethodTwo();
-
-            break;
-
-        default:
-            MethodThree();
-
-            break;
-    }
-}
-```
 
 # Return statements
 
@@ -236,53 +86,6 @@ public static string DoThing(AbSession abSession)
 }
 ```
 
-## Switch statements
-
-Return statements at the end of a `case` block should be separated from that block by a blank line.
-
-```csharp
-public static void DoThing(string thing)
-{
-    switch (thing)
-    {
-        case "true":
-            DoAnotherThing();
-
-            return true;
-
-        case "false":
-            DoAnotherThing();
-
-            return false;
-
-        default:
-            DoAnotherThing();
-
-            return false;
-    }
-}
-```
-
-## In-line return statements
-
-Return statements in a `if...else if...else` and `case` statment blocks of code shouldn't have any blank lines.
-
-```csharp
-public static void DoThing(string thing)
-{
-    switch (thing)
-    {
-        case "true":
-            return true;
-
-        case "false":
-            return false;
-
-        default:
-            return false;
-    }
-}
-```
 
 # Catalog information
 

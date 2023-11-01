@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![](_attachments/AbatabDocumentationProjectLogo.png)
+![](_attachments/Logo/AbatabDocumentationProjectLogo.png)
 	<h1>
 		Welcome
 	</h1>
@@ -41,16 +41,16 @@ When a new version of the Abatab Documentation Project is ready for release, you
 ## Deploy
 
 1. Click the **Webpage HTML Export** icon
-![](_attachments/WebpageHTMLExport_01.png)
+![](_attachments/Documentation_Export/WebpageHTMLExport_01.png)
 
 2. Confirm that all necessary files/folders are included
-![](_attachments/WebpageHTMLExport_02.png)
+![](_attachments/Documentation_Export/WebpageHTMLExport_02.png)
 
 3. Confirm that the export folder is ***docs/***
-![](_attachments/WebpageHTMLExport_03.png)
+![](_attachments/Documentation_Export/WebpageHTMLExport_03.png)
 
 4. Click **Export**
-![](_attachments/WebpageHTMLExport_04.png)
+![](_attachments/Documentation_Export/WebpageHTMLExport_04.png)
 
 ## Merge branches
 
