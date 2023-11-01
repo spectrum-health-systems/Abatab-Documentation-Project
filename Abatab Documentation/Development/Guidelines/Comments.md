@@ -1,21 +1,70 @@
-> Last updated: 231101
+> Last updated: **November 1, 2023**
 
 <div align="center">
+<table>  
+  <tr>
 
 ![](_attachments/AbatabDocumentationProjectLogo.png)
 
-	<h5>
-		Development > Source Code > Comments
-	</h5>
-	
+  </tr>
+  <tr>
+Development Guidelines: Comments
+  </tr>
+</table>
 </div>
 
 ***
+
+# File headers
+
+All `.cs` files should have a file header comment.
+
+All file headers have a maximum width of 80 characters, with the exception of URLs that are longer than 80 characters.
+
+## Primary header
+
+Abatab.asmx.cs is the main entry point for Abatab, so it contains the primary header for Abatab:
+
+```
+// =============================================================================
+// Abatab: A custom web service/framework for myAvatar.
+// https://github.com/spectrum-health-systems/Abatab
+// Copyright (c) A Pretty Cool Program. All rights reserved.
+// Licensed under the Apache 2.0 license.
+//
+// For details about this release, please see the local Source Code README.md:
+//   Abatab/README.md
+// =============================================================================
+```
+
+## Class header
+
+Each class has a simple header:
+
+```
+// -----------------------------------------------------------------------------
+// Namespace.ClassName.cs: Description of class.
+// https://spectrum-health-systems.github.io/Abatab-Documentation-Project/<FileName.html>
+// bYYMMDD.HHMM
+// -----------------------------------------------------------------------------
+```
+
+Example:
+
+```
+// -----------------------------------------------------------------------------
+// Abatab.Abatab.asmx.cs: Entry point for Abatab.
+// https://spectrum-health-systems.github.io/Abatab-Documentation-Project/Source%20code/Abatab/Abatab.asmx.cs.html
+// b231030.1043
+// -----------------------------------------------------------------------------
+```
+
 
 # XML documentation
 
 Abatab XML documentation comments follow [Microsoft's recommendations](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/xmldoc/recommended-tags).
 
+XML documentation
 - XML documentation comments should be included in the source code, and not in external files.
 - All publicly visible types and their public members should be documented.
 - It is recommended that private members also be documented.
