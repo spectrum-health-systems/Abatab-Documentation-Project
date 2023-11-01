@@ -1,15 +1,15 @@
 <div align="center">
+	<img src="../../_attachments/AbatabDocumentationProjectLogo.png">
 
 ![](_attachments/AbatabDocumentationProjectLogo.png)
 
 <h3>
-	Development Guidelines: XML Documentation
+Development Guidelines: XML Documentation
 </h3>
+
 </div>
 
 ***
-
-# XML documentation
 
 Abatab uses XML documentation to provide IntelliSense content, as well as API documentation via [DocFX](https://dotnet.github.io/docfx/)
 
