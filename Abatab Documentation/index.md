@@ -53,15 +53,16 @@ When a new version of the Abatab Documentation Project is ready for release, you
 
 Just merge the development branch with the main branch!
 
+<br>
+
 ***
 
 <div align="center">
-	This document is part of the <a href="https://spectrum-health-systems.github.io/Abatab-Documentation-Project/">Abatab Documentation Project</a>
-	<br>
-	Last updated: **November 1, 2023**
-	<br>
-	<sub style="color:DarkSlateGrey;">
-			[ Build 231101.1526 ]
-	</sub>
-	<br>
+	<h6>
+			This document is part of the <a href="https://spectrum-health-systems.github.io/Abatab-Documentation-Project/">Abatab Documentation Project</a>
+			<br>
+			<sub style="color:DarkSlateGrey;">
+					Last updated: <b>November 6, 2023</b> [b231106.1057]
+			</sub>
+		</h6>
 </div>

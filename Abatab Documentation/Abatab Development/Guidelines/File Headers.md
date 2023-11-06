@@ -34,25 +34,22 @@ Abatab.asmx.cs is the main entry point for Abatab, so it contains the primary he
 
 # Class Header
 
-Each class has a simple header:
+Each class has a simple header with the build number:
 
 ```text
-// -----------------------------------------------------------------------------
-// Namespace.ClassName.cs: Description of class.
-// https://spectrum-health-systems.github.io/Abatab-Documentation-Project/<FileName.html>
 // bYYMMDD.HHMM
-// -----------------------------------------------------------------------------
 ```
 
 Example:
 
 ```text
-// -----------------------------------------------------------------------------
-// Abatab.Abatab.asmx.cs: Entry point for Abatab.
-// https://spectrum-health-systems.github.io/Abatab-Documentation-Project/Source%20code/Abatab/Abatab.asmx.cs.html
 // b231030.1043
-// -----------------------------------------------------------------------------
 ```
+
+## Class details
+
+All class details (description, etc.) should be contained in the XML documentation.
+
 
 ***
 

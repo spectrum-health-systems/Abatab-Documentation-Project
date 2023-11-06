@@ -1,7 +1,7 @@
 {
   "strictLineBreaks": true,
   "showIndentGuide": false,
-  "trashOption": "system",
+  "trashOption": "local",
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "./_attachments",

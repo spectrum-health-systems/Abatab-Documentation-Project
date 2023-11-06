@@ -1,161 +1,26 @@
-<!-- This documentation is incomplete. -->
-
 <div align="center">
-
-![](_attachments/Logo/AbatabDocumentationProjectLogo.png)
-	<h1>
-		Glossary
+	<img src="_attachments/Logo/AbatabDocumentationProjectLogo.png">
+		<h1>
+			The Abatab Documentation Project
 	</h1>
 </div>
 
+***
   
+# Script Parameter
 
-# myAvatar Script Parameter
-
-  # myAvatar Script Parameter
-# myAvatar Script Parameterg
-
-  # myAvatar Script Parameter
-
-  
-
-Info about script parameter.
-
-
-# Abatab Sessiong
-
-What an Abatab Session is# myAvatar Script Parameter
-
-  
-
-Info about script parameter.
-
-
-# Abatab Sessionag
-
-What an Abatab Session is# myAvatar Script Parameter
-
-  
-
-Info about script parameter.
-
-
-# Abatab Sessiong
-a
-What an Abatab Session is# myAvatar Script Parameter
-
-  
-
-Info about script parameter.
-
-
-# Abatab Sessiong
-
-What an Abatab Session is# myAvatar Script Parameter
-
-  
-
-Info about script parameter.
-
-
-# Abatab Sessiong
-
-What an Abatab Session is# myAvatar Script Parameter
-
-  
-
-Info about script parameter.
-
-
-# Abatab Sessiona
-
-What an Abatab Session is# myAvatar Script Parameter
-
-  
-
-Info about script parameter.
-
-
-# Abatab Sessiong
-
-What an Abatab Session is# myAvatar Script Parameter
-
-  
-
-Info about script parameter.
-
-
-# Abatab Sessiong
-
-What an Abatab Session is# myAvatar Script Parameter
-
-  
-
-Info about script parameter.
-
-
-# Abatab Sessionf
-
-What an Abatab Session is
-
-Info about script parameter.
-
-
-# Abatab Sessiona
-
-What an Abatab Session is# myAvatar Script Parameter
-
-  
-
-Info about script parameter.
-
-
-# Abatab Sessions
-
-What an Abatab Session is
-  
-
-Info about script parameter.
-
-
-# Abatab Sessiona
-
-What an Abatab Session is
-
-Info about script parameter.
-
-
-# Abatab Session
-
-What an Abatab Session is
-  
-
-# AThing
-
-This is a thing
+The Script Parameter is...
 
 <br>
 
-  
-
 ***
 
-  
-
 <div align="center">
-
-  
-
-  This document is part of the [Abatab Documentation Project](../Abatab%20Documentation%20Project.md).
-
-  
-
-  <h5>
-
-    Last updated: May 30, 2023
-
-  </h5>
-
-  
-
+	<h6>
+			This document is part of the <a href="https://spectrum-health-systems.github.io/Abatab-Documentation-Project/">Abatab Documentation Project</a>
+			<br>
+			<sub style="color:DarkSlateGrey;">
+					Last updated: <b>November 6, 2023</b> [b231106.1057]
+			</sub>
+		</h6>
 </div>
