@@ -33,7 +33,16 @@ The development source files can be found [here](https://github.com/spectrum-hea
 
 # Release
 
-When a new version of the Abatab Documentation Project is ready for release, you will need to deploy it and then merge the development branch with the main branch.
+The Abatab Documentation Project release process is as follows:
+
+<div align="center">
+
+  ```mermaid
+  graph LR
+
+      Deploy[Deploy] --> Merge[Merge] --> Publish[Publish]
+  ```
+</div>
 
 ## Deploy
 
