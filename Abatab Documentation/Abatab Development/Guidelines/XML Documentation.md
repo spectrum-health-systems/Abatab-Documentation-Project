@@ -50,14 +50,12 @@ Abatab XML documentation use [Microsoft's recommended XML tags for C#](https://l
 
 ## &lt;summary&gt;
 
-`<summary>` should be enclosed in `<summary></summary>` tags, even if they are a single line, and is a short description of whatever they precede (e.g, classes and methods).
+`<summary>` should be a single line, and is a short description of whatever they precede (e.g., classes and methods).
 
 Example:
 
 ```csharp
-/// <summary>
-/// Compares two numbers to determine if they are the same.
-/// </summary>
+/// <summary>Compares two numbers to determine if they are the same.</summary>
 ```
 
 ## &lt;param&gt;
@@ -272,10 +270,17 @@ This example of an XML documentation comment details the correct tag order:
 /// <value>Default value is <c>false</c></value>
 ```
 
+
+<br>
+
 ***
 
 <div align="center">
-	This document is part of the <a href="https://spectrum-health-systems.github.io/Abatab-Documentation-Project/">Abatab Documentation Project</a>
-	<br>
-	Last updated: **November 1, 2023**
+	<h6>
+			This document is part of the <a href="https://spectrum-health-systems.github.io/Abatab-Documentation-Project/">Abatab Documentation Project</a>
+			<br>
+			<sub style="color:DarkSlateGrey;">
+					Last updated: <b>November 6, 2023</b> [b231106.1057]
+			</sub>
+		</h6>
 </div>
