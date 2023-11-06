@@ -24,6 +24,9 @@ During development, the API documentation is rebuilt *a lot*. Building the API d
 
 When you build Abatab, DocFX rebuilds the API documentation to `src/ThirdParty/DocFX/_site`. 
 
+> **Testing API documentation during development**  
+> During development, use `src/ThirdParty/DocFX/_site` to test the API documentation.
+
 For the majority of a development cycle, DocFX generated data can be ignored. And since the GitHub Pages that host the API documentation is based on the main branch, and not available to the public, you don't need to worry about the documentation being correct (although keeping on top of the XML comments will make your life easier when you are ready to make the documentation available to the public).
 
 At the *end* of a development cycle, there are a few things you need to do to ensure that the current API documentation is available to the public.

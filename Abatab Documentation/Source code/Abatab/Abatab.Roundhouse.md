@@ -4,20 +4,16 @@
 			Abatab Source Code
 	</h3>
 		<h1>
-			Abatab.asmx.cs
+			Abatab.Roundhouse.cs
 	</h1>
 </div>
 
 ***
 
-- Entry point for Abatab.
-- Designed to be pretty bare-bones
-- Most work is handed off to other classes/methods.
-- Shouldn't change very often, if ever.
-- Only two methods, both required by Avatar.
+- Parses the `module` component of the Script Parameter.
 
 # API Documentation
-- [Abatab.asmx.cs](https://spectrum-health-systems.github.io/Abatab/api/Abatab.Abatab.html)
+- [Abatab.asmx.cs](https://spectrum-health-systems.github.io/Abatab/api/Abatab.Roundhouse.html)
 
 ***
 

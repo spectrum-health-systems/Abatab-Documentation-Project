@@ -4,20 +4,16 @@
 			Abatab Source Code
 	</h3>
 		<h1>
-			Abatab.asmx.cs
+			Abatab.Stop
 	</h1>
 </div>
 
 ***
 
-- Entry point for Abatab.
-- Designed to be pretty bare-bones
-- Most work is handed off to other classes/methods.
-- Shouldn't change very often, if ever.
-- Only two methods, both required by Avatar.
+- Stops an Abatab [session](https://spectrum-health-systems.github.io/Abatab-Documentation-Project/glossary.html#Abatab_Session)
 
 # API Documentation
-- [Abatab.asmx.cs](https://spectrum-health-systems.github.io/Abatab/api/Abatab.Abatab.html)
+- [Abatab.asmx.cs](https://spectrum-health-systems.github.io/Abatab/api/Abatab.Stop.html)
 
 ***
 
