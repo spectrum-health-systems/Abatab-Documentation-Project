@@ -50,14 +50,14 @@ Abatab XML documentation use [Microsoft's recommended XML tags for C#](https://l
 
 ## &lt;summary&gt;
 
-The `<summary>` is a short, single line description of:
-- Classes
-- Methods
+`<summary>` should be enclosed in `<summary></summary>` tags, even if they are a single line, and is a short description of whatever they precede (e.g, classes and methods).
 
 Example:
 
 ```csharp
-/// <summary>Compares two numbers to determine if they are the same.</summary>
+/// <summary>
+/// Compares two numbers to determine if they are the same.
+/// </summary>
 ```
 
 ## &lt;param&gt;
@@ -79,7 +79,7 @@ Remarks should be enclosed in `<remarks></remarks>` tags, even if they are a sin
 
 Lengthy remarks should be split into paragraphs using the `<para>` tag.
 
-Remarks can contain simple lists:
+In general, remarks should be a simple bullet list:
 
 ```csharp
 /// <remarks>
