@@ -1,11 +1,13 @@
 <div align="center">
-	<img src="_attachments/Logo/AbatabDocumentationProjectLogo.png">
-		<h1>
-			The Abatab Documentation Project
+	<img src="_attachments/logo/abatab-documentation-project-logo.png">
+	<h1>
+		Glossary
 	</h1>
 </div>
 
 ***
+
+This is a glossary of important Abatab terms and concepts
 
 <!--
 For XML documentation:
@@ -80,15 +82,16 @@ For XML documentation:
 The Script Parameter is...
 
 <br>
+<br>
 
 ***
 
 <div align="center">
 	<h6>
-			This document is part of the <a href="https://spectrum-health-systems.github.io/Abatab-Documentation-Project/">Abatab Documentation Project</a>
-			<br>
-			<sub style="color:DarkSlateGrey;">
-					Last updated: <b>November 6, 2023</b> [b231106.1057]
-			</sub>
-		</h6>
+		This document is part of the <a href="https://spectrum-health-systems.github.io/Abatab-Documentation-Project/">Abatab Documentation Project</a>
+		<br>
+		<sub style="color:DarkSlateGrey;">
+			Last updated: <b>November 6, 2023</b> [b231106.1057]
+		</sub>
+	</h6>
 </div>

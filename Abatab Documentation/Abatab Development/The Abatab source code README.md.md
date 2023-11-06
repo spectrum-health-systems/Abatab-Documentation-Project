@@ -1,20 +1,13 @@
-<!-- 
-	Abatab Documentation Project: The Abatab Source Code README.md
-	Last updated: 231030
-	This documentation is incomplete.
--->
-
 <div align="center">
-
-![](_attachments/Logo/AbatabDocumentationProjectLogo.png)
+	<img src="_attachments/logo/abatab-documentation-project-logo.png">
 	<h1>
-		The Abatab Source Code README.md
+		The Abatab Source Code README
 	</h1>
 </div>
 
 ***
 
-# About the Abatab Source Code README.md
+# About the Abatab Source Code README
 
 The Abatab [Source Code README.md file](https://github.com/spectrum-health-systems/Abatab/blob/main/src/Abatab/README.md) (Abatab/README.md) version information, and is updated with each release.
 
@@ -133,3 +126,18 @@ https://spectrum-health-systems.github.io/Abatab/api/
 For more information about Abatab, please see the Abatab Documenation Project
 https://spectrum-health-systems.github.io/Abatab-Documentation-Project/
 ```
+
+<br>
+<br>
+
+***
+
+<div align="center">
+	<h6>
+		This document is part of the <a href="https://spectrum-health-systems.github.io/Abatab-Documentation-Project/">Abatab Documentation Project</a>
+		<br>
+		<sub style="color:DarkSlateGrey;">
+			Last updated: <b>November 6, 2023</b> [b231106.1057]
+		</sub>
+	</h6>
+</div>

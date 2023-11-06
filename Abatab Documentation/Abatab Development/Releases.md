@@ -1,14 +1,7 @@
-<!-- 
-	Abatab Documentation Project: Releases
-	Last updated: 231030
-	This documentation is incomplete.
--->
-
 <div align="center">
-
-![](_attachments/Logo/AbatabDocumentationProjectLogo.png)
+	<img src="_attachments/logo/abatab-documentation-project-logo.png">
 	<h1>
-		Releases
+		Abatab Releases
 	</h1>
 </div>
 
@@ -51,3 +44,18 @@
 	- Change version
 	- Remove Community Release note
 - Modify AppData/Version.json (TODO)
+
+<br>
+<br>
+
+***
+
+<div align="center">
+	<h6>
+		This document is part of the <a href="https://spectrum-health-systems.github.io/Abatab-Documentation-Project/">Abatab Documentation Project</a>
+		<br>
+		<sub style="color:DarkSlateGrey;">
+			Last updated: <b>November 6, 2023</b> [b231106.1057]
+		</sub>
+	</h6>
+</div>

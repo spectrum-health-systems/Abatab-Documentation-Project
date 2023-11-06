@@ -1,27 +1,13 @@
 <div align="center">
 	<img src="_attachments/logo/abatab-documentation-project-logo.png">
 	<h1>
-		Abatab Class Methods
+		The Abatab Documentation Project
 	</h1>
 </div>
 
 ***
 
-# Calls
-
-- Method calls are separated by blank lines.
-
-```csharp
-public static void MethodOne()
-{
-	MethodTwo();
-	
-	MethodThree();
-	
-	MethodFour();
-}
-```
-
+-- BODY --
 
 <br>
 <br>
@@ -37,3 +23,5 @@ public static void MethodOne()
 		</sub>
 	</h6>
 </div>
+  
+  

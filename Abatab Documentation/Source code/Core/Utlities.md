@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![](_attachments/Logo/AbatabDocumentationProjectLogo.png)
+![](_attachments/logo/abatab-documentation-project-logo.png)
 	<h1>
 		Abatab.Core.Utilities
 	</h1>

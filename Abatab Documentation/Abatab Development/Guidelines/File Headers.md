@@ -1,16 +1,13 @@
 <div align="center">
-	<img src="../../_attachments/Logo/AbatabDocumentationProjectLogo.png">
-	<h3>
-			Abatab Development Guidelines
-	</h3>
-		<h1>
-			File Headers
+	<img src="_attachments/logo/abatab-documentation-project-logo.png">
+	<h1>
+		Abatab Source Code File Headers
 	</h1>
 </div>
 
 ***
 
-# About Abatab File Headers
+# About Abatab Source Code File Headers
 
 All `.cs` files should have a file header comment.
 
@@ -50,11 +47,17 @@ Example:
 
 All class details (description, etc.) should be contained in the XML documentation.
 
+<br>
+<br>
 
 ***
 
 <div align="center">
-	This document is part of the <a href="https://spectrum-health-systems.github.io/Abatab-Documentation-Project/">Abatab Documentation Project</a>
-	<br>
-	Last updated: **November 1, 2023**
+	<h6>
+		This document is part of the <a href="https://spectrum-health-systems.github.io/Abatab-Documentation-Project/">Abatab Documentation Project</a>
+		<br>
+		<sub style="color:DarkSlateGrey;">
+			Last updated: <b>November 6, 2023</b> [b231106.1057]
+		</sub>
+	</h6>
 </div>

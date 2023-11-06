@@ -1,10 +1,7 @@
 <div align="center">
-	<img src="../../_attachments/Logo/AbatabDocumentationProjectLogo.png">
-	<h3>
-			Abatab Development Guidelines
-	</h3>
-		<h1>
-			XML Documentation
+	<img src="_attachments/logo/abatab-documentation-project-logo.png">
+	<h1>
+		Abatab XML Documentation
 	</h1>
 </div>
 
@@ -270,17 +267,17 @@ This example of an XML documentation comment details the correct tag order:
 /// <value>Default value is <c>false</c></value>
 ```
 
-
+<br>
 <br>
 
 ***
 
 <div align="center">
 	<h6>
-			This document is part of the <a href="https://spectrum-health-systems.github.io/Abatab-Documentation-Project/">Abatab Documentation Project</a>
-			<br>
-			<sub style="color:DarkSlateGrey;">
-					Last updated: <b>November 6, 2023</b> [b231106.1057]
-			</sub>
-		</h6>
+		This document is part of the <a href="https://spectrum-health-systems.github.io/Abatab-Documentation-Project/">Abatab Documentation Project</a>
+		<br>
+		<sub style="color:DarkSlateGrey;">
+			Last updated: <b>November 6, 2023</b> [b231106.1057]
+		</sub>
+	</h6>
 </div>

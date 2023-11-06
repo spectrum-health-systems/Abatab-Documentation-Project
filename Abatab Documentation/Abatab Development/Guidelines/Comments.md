@@ -1,18 +1,15 @@
 <div align="center">
-	<img src="../../_attachments/Logo/AbatabDocumentationProjectLogo.png">
-	<h3>
-			Abatab Development Guidelines
-	</h3>
-		<h1>
-			Comments
+	<img src="_attachments/logo/abatab-documentation-project-logo.png">
+	<h1>
+		Source Code Comments
 	</h1>
 </div>
 
 ***
 
-# About Abatab Comments
+# About Abatab Source Code Comments
 
-Abatab is heavily commented, with the intention of making sure all functionality is thouroughly detailed.
+Abatab is heavily commented, with the intention of making sure all functionality is thoroughly detailed.
 
 # Development comments
 
@@ -37,12 +34,17 @@ Comments may have the following prefixes:
 - `REVIEW` indicates that code should be reviewed and/or refactor
 - `TODO` indicates that there is something to be done.
 
-
+<br>
+<br>
 
 ***
 
 <div align="center">
-	This document is part of the <a href="https://spectrum-health-systems.github.io/Abatab-Documentation-Project/">Abatab Documentation Project</a>
-	<br>
-	Last updated: **November 1, 2023**
+	<h6>
+		This document is part of the <a href="https://spectrum-health-systems.github.io/Abatab-Documentation-Project/">Abatab Documentation Project</a>
+		<br>
+		<sub style="color:DarkSlateGrey;">
+			Last updated: <b>November 6, 2023</b> [b231106.1057]
+		</sub>
+	</h6>
 </div>

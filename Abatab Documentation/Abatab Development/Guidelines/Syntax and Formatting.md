@@ -1,14 +1,11 @@
 <div align="center">
-	<img src="../../_attachments/Logo/AbatabDocumentationProjectLogo.png">
-	<h3>
-			Abatab Development Guidelines
-	</h3>
-		<h1>
-			Syntax and Formatting
+	<img src="_attachments/logo/abatab-documentation-project-logo.png">
+	<h1>
+		Abatab Source Code Syntax
 	</h1>
 </div>
 
-***  
+***
 
 # Variables
 
@@ -120,10 +117,17 @@ public static int ReturnThing()
 
 - "=" alignment
 
+<br>
+<br>
+
 ***
 
 <div align="center">
-	This document is part of the <a href="https://spectrum-health-systems.github.io/Abatab-Documentation-Project/">Abatab Documentation Project</a>
-	<br>
-	Last updated: **November 1, 2023**
+	<h6>
+		This document is part of the <a href="https://spectrum-health-systems.github.io/Abatab-Documentation-Project/">Abatab Documentation Project</a>
+		<br>
+		<sub style="color:DarkSlateGrey;">
+			Last updated: <b>November 6, 2023</b> [b231106.1057]
+		</sub>
+	</h6>
 </div>

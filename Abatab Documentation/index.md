@@ -1,17 +1,11 @@
 <div align="center">
-	<img src="_attachments/Logo/AbatabDocumentationProjectLogo.png">
-	<img src="/_attachments/Logo/AbatabDocumentationProjectLogo.png">
-	<img src="./_attachments/Logo/AbatabDocumentationProjectLogo.png">
+	<img src="_attachments/logo/abatab-documentation-project-logo.png">
 	<h1>
 			The Abatab Documentation Project
 	</h1>
 </div>
 
-
-
 ***
-
-
 
 # About The Abatab Documentation Project
 
@@ -46,28 +40,25 @@ The Abatab Documentation Project release process is as follows:
   ```mermaid
   graph LR
 
-      Deploy[Deploy] --> Merge[Merge] --> Publish[Publish]
+      Deploy[Deploy] --> Publish[Publish]
   ```
 </div>
 
 ## Deploy
 
 1. Click the **Webpage HTML Export** icon
-![](_attachments/Documentation_Export/WebpageHTMLExport_01.png)
+![](_attachments/documentation-export/documentation-export-01.png)
 
 2. Confirm that all necessary files/folders are included
-![](_attachments/Documentation_Export/WebpageHTMLExport_02.png)
+![](_attachments/documentation-export/documentation-export-02.png)
 
 3. Confirm that the export folder is ***docs/***
-![](_attachments/Documentation_Export/WebpageHTMLExport_03.png)
+![](_attachments/documentation-export/documentation-export-03.png)
 
 4. Click **Export**
-![](_attachments/Documentation_Export/WebpageHTMLExport_04.png)
+![](_attachments/documentation-export/documentation-export-04.png)
 
-## Merge branches
-
-Just merge the development branch with the main branch!
-
+<br>
 <br>
 
 ***
