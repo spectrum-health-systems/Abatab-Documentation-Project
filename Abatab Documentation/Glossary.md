@@ -7,6 +7,9 @@
 
 ***
 
+<!--
+<see href="https://spectrum-health-systems.github.io/Abatab-Documentation-Project/glossary.html#script_parameter">Script Parameter</see>
+-->
 # Abatab Module
 
 An Abatab Module is...
@@ -28,6 +31,10 @@ An Abatab Module is...
 <br>
 <br>
 
+<!--
+<see href="https://spectrum-health-systems.github.io/Abatab-Documentation-Project/glossary.html#abatab_module">Abatab Module</see>
+
+-->
 # Abatab Session
 
 An Abatab Session is...
@@ -49,6 +56,9 @@ An Abatab Session is...
 <br>
 <br>
 
+<!--
+<see href="https://spectrum-health-systems.github.io/Abatab-Documentation-Project/glossary.html#abatab_session">Abatab Session</see>
+-->
 # Script Parameter
 
 The Script Parameter is...
