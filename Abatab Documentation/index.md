@@ -1,11 +1,17 @@
 <div align="center">
 	<img src="_attachments/Logo/AbatabDocumentationProjectLogo.png">
-		<h1>
+	<img src="/_attachments/Logo/AbatabDocumentationProjectLogo.png">
+	<img src="./_attachments/Logo/AbatabDocumentationProjectLogo.png">
+	<h1>
 			The Abatab Documentation Project
 	</h1>
 </div>
 
+
+
 ***
+
+
 
 # About The Abatab Documentation Project
 
@@ -20,7 +26,7 @@ The goal of the Abatab Documentation Project is to provide useful documentation 
 
 The best way to view the Abatab Documentation Project is via the repository [GitHub Pages](https://spectrum-health-systems.github.io/Abatab-Documentation-Project/).
 
-# Development
+# Documentation development
 
 The Abatab Documentation Project is developed using [Obsidian.md](https://obsidian.md/) with the following plugins:
 
@@ -31,7 +37,7 @@ The Abatab Documentation Project also utilizes [Mermaid](https://mermaid.js.org/
 
 The development source files can be found [here](https://github.com/spectrum-health-systems/Abatab-Documentation-Project/tree/development/Abatab%20Documentation).
 
-# Release
+# Documentation release
 
 The Abatab Documentation Project release process is as follows:
 

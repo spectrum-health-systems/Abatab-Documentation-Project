@@ -8,7 +8,9 @@
 ***
 
 <!--
-<see href="https://spectrum-health-systems.github.io/Abatab-Documentation-Project/glossary.html#script_parameter">Script Parameter</see>
+For XML documentation:
+
+<see href="https://spectrum-health-systems.github.io/Abatab-Documentation-Project/glossary.html#Abatab_Module">Abatab Module</see>
 -->
 # Abatab Module
 
@@ -32,8 +34,9 @@ An Abatab Module is...
 <br>
 
 <!--
-<see href="https://spectrum-health-systems.github.io/Abatab-Documentation-Project/glossary.html#abatab_module">Abatab Module</see>
+For XML documentation:
 
+<see href="https://spectrum-health-systems.github.io/Abatab-Documentation-Project/glossary.html#Abatab_Session">Abatab Session</see>
 -->
 # Abatab Session
 
@@ -57,7 +60,20 @@ An Abatab Session is...
 <br>
 
 <!--
-<see href="https://spectrum-health-systems.github.io/Abatab-Documentation-Project/glossary.html#abatab_session">Abatab Session</see>
+For XML documentation:
+
+<see href="https://spectrum-health-systems.github.io/Abatab-Documentation-Project/glossary.html#OptionObject">OptionObject</see>
+-->
+# OptionObject
+
+The OptionObject is...
+
+<br>
+
+<!--
+For XML documentation:
+
+<see href="https://spectrum-health-systems.github.io/Abatab-Documentation-Project/glossary.html#Script_Parameter">Script Parameter</see>
 -->
 # Script Parameter
 
