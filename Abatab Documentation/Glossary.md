@@ -6,7 +6,49 @@
 </div>
 
 ***
-  
+
+# Abatab Module
+
+An Abatab Module is...
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# Abatab Session
+
+An Abatab Session is...
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 # Script Parameter
 
 The Script Parameter is...
