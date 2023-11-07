@@ -1,32 +1,33 @@
 <div align="center">
 
-![](.github/resources/images/logos/AbatabDocumentationProjectLogo.png)
+![](_attachments/logo/abatab-documentation-project-logo.png)
 
 </div>
 
 ***
 
-# About the Abatab Documentation Project
+# About The Abatab Documentation Project
 
 The Abatab Documentation Project is a living document for [Abatab](https://github.com/spectrum-health-systems/Abatab).
 
-The best way to view the Abatab Documentation Project is via the repository [GitHub Pages](https://spectrum-health-systems.github.io/Abatab-Documentation-Project/).
+The goal of the Abatab Documentation Project is to provide useful documentation for Abatab development purposes, including:
 
-## `Abatab Documentation/`
+- Documentation on configuring and deploying Abatab
+- Documentation and guidelines for developing Abatab
+- [API documentation](https://spectrum-health-systems.github.io/Abatab/)
+- TBD
 
-Abatab Documentation Project development source code can be found in [Abatab Documentation/](/Abatab%20Documentation/).
-
-The Abatab Documentation Project is developed using [Obsidian.md](https://obsidian.md/).
-
-## `docs/`
-
-The Abatab Documentation Project release version (and source for GitHub Pages) can be found in [docs/](/docs/).
+<br>
+<br>
 
 ***
 
 <div align="center">
-
-  Abatab is developed by<br>
-  [A Pretty Cool Program](https://github.com/APrettyCoolProgram)
-
+	<h6>
+			This document is part of the <a href="https://spectrum-health-systems.github.io/Abatab-Documentation-Project/">Abatab Documentation Project</a>
+			<br>
+			<sub style="color:DarkSlateGrey;">
+					Last updated: <b>November 6, 2023</b> [b231106.1057]
+			</sub>
+		</h6>
 </div>
