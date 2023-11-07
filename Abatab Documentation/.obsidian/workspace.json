@@ -11,13 +11,8 @@
             "id": "76de777c420fb59d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Source code/Abatab/Abatab.Start.cs.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Glossary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Glossary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Glossary.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -151,46 +142,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "37e7c0b2281a64ec",
-    "type": "floating",
-    "children": [
-      {
-        "id": "2e38175ed2864759",
-        "type": "window",
-        "children": [
-          {
-            "id": "81d8017184674bd9",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ea909a205e40e6a9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Glossary.md",
-                    "mode": "preview",
-                    "backlinks": true,
-                    "source": true
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1270,
-        "y": 915,
-        "width": 800,
-        "height": 400,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "ea909a205e40e6a9",
+  "active": "76de777c420fb59d",
   "lastOpenFiles": [
+    "index.md",
+    "Glossary.md",
     "Source code/ThirdParty/ScriptLinkStandard.md",
     "Source code/ThirdParty/DocFX.md",
     "Source code/Sandbox/Sandboxes.md",
@@ -205,18 +160,16 @@
     "Source code/Core/Framework.md",
     "Source code/Core/DataExport.md",
     "Source code/Core/Catalog.md",
-    "Source code/Abatab/Abatab.Start.md",
-    "Source code/Abatab/Abatab.asmx.md",
+    "Source code/Abatab/Abatab.asmx.cs.md",
     "Abatab Development/Versioning.md",
     "Abatab Development/The Abatab source code README.md.md",
     "Abatab Development/Releases.md",
+    "Abatab Development/Logging.md",
     "Abatab Development/Adding new settings.md",
     "Abatab Development/Guidelines/XML Documentation.md",
     "Abatab Development/Guidelines/Syntax and Formatting.md",
     "Abatab Development/Guidelines/Methods.md",
     "Abatab Development/Guidelines/File Headers.md",
-    "Abatab Development/Guidelines/Comments.md",
-    "Abatab Development/Guidelines/Classes.md",
     "Development/Source code",
     "Source code/Abatab",
     "_attachments/WebpageHTMLExport_01.png",
