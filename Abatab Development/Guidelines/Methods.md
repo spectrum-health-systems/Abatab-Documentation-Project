@@ -1,8 +1,7 @@
 <div align="center">
-	<img src="_attachments/logo/abatab-documentation-project-logo.png">
-	<h1>
-		Abatab Class Methods
-	</h1>
+
+![](_attachments/logo/abatab-documentation-project-logo.png)
+
 </div>
 
 ***

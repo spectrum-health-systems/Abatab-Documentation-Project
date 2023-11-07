@@ -1,8 +1,7 @@
 <div align="center">
-	<img src="_attachments/logo/abatab-documentation-project-logo.png">
-	<h1>
-			The Abatab Documentation Project
-	</h1>
+
+![](_attachments/logo/abatab-documentation-project-logo.png)
+
 </div>
 
 ***
@@ -17,46 +16,6 @@ The goal of the Abatab Documentation Project is to provide useful documentation 
 - Documentation and guidelines for developing Abatab
 - [API documentation](https://spectrum-health-systems.github.io/Abatab/)
 - TBD
-
-The best way to view the Abatab Documentation Project is via the repository [GitHub Pages](https://spectrum-health-systems.github.io/Abatab-Documentation-Project/).
-
-# Documentation development
-
-The Abatab Documentation Project is developed using [Obsidian.md](https://obsidian.md/) with the following plugins:
-
-- [Advanced Tables](https://github.com/tgrosinger/advanced-tables-obsidian)
-- [Webpage HTML Export](https://github.com/KosmosisDire/obsidian-webpage-export)
-
-The Abatab Documentation Project also utilizes [Mermaid](https://mermaid.js.org/)).
-
-The development source files can be found [here](https://github.com/spectrum-health-systems/Abatab-Documentation-Project/tree/development/Abatab%20Documentation).
-
-# Documentation release
-
-The Abatab Documentation Project release process is as follows:
-
-<div align="center">
-
-  ```mermaid
-  graph LR
-
-      Deploy[Deploy] --> Publish[Publish]
-  ```
-</div>
-
-## Deploy
-
-1. Click the **Webpage HTML Export** icon
-![](_attachments/documentation-export/documentation-export-01.png)
-
-2. Confirm that all necessary files/folders are included
-![](_attachments/documentation-export/documentation-export-02.png)
-
-3. Confirm that the export folder is ***docs/***
-![](_attachments/documentation-export/documentation-export-03.png)
-
-4. Click **Export**
-![](_attachments/documentation-export/documentation-export-04.png)
 
 <br>
 <br>

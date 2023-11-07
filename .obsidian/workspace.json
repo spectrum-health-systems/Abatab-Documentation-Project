@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md.md"
+                "file": "README.md"
               }
             }
           }
@@ -146,45 +146,46 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
       "janitor:Janitor: scan vault": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "webpage-html-export:Export Vault to HTML": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "91f83c033a6358a8",
+  "active": "76de777c420fb59d",
   "lastOpenFiles": [
-    "Source code/Abatab/Abatab.asmx.cs.md",
-    "_attachments/logo/abatab-documentation-project-logo.png",
-    "README.md.md",
     "Glossary.md",
-    "Source code/ThirdParty/ScriptLinkStandard.md",
-    "Source code/ThirdParty/DocFX.md",
-    "Source code/Sandbox/Sandboxes.md",
-    "Source code/Module/Testing.md",
-    "Source code/Module/QuickMedicationOrder.md",
-    "Source code/Module/Prototype.md",
-    "Source code/Module/ProgressNote.md",
-    "Source code/Core/Utlities.md",
-    "Source code/Core/Session.md",
-    "Source code/Core/Messaging.md",
-    "Source code/Core/Logger.md",
-    "Source code/Core/Framework.md",
-    "Source code/Core/DataExport.md",
-    "Source code/Core/Catalog.md",
+    "Source Code/ThirdParty/ScriptLinkStandard.md",
+    "Source Code/ThirdParty/DocFX.md",
+    "Source Code/Sandbox/Sandboxes.md",
+    "Source Code/Module/Testing.md",
+    "Source Code/Module/QuickMedicationOrder.md",
+    "Source Code/Module/Prototype.md",
+    "Source Code/Module/ProgressNote.md",
+    "Source Code/Core/Utlities.md",
+    "Source Code/Core/Session.md",
+    "Source Code/Core/Messaging.md",
+    "Source Code/Core/Logger.md",
+    "Source Code/Core/Framework.md",
+    "Source Code/Core/DataExport.md",
+    "Source Code/Core/Catalog.md",
+    "Abatab Development/Guidelines/XML Documentation.md",
+    "Abatab Development/Guidelines/Classes.md",
+    "Abatab Development/Documentation Project/Template.md",
+    "README.md",
+    "Source Code/Abatab/Abatab.asmx.cs.md",
     "Abatab Development/Versioning.md",
     "Abatab Development/The Abatab source code README.md.md",
     "Abatab Development/Releases.md",
+    "Abatab Development/Logging.md",
     "Abatab Development/Adding new settings.md",
-    "Abatab Development/Guidelines/XML Documentation.md",
     "Abatab Development/Guidelines/Syntax and Formatting.md",
-    "Abatab Development/Guidelines/Methods.md",
-    "Abatab Development/Guidelines/File Headers.md",
-    "Abatab Development/Guidelines/Comments.md",
+    "Abatab Manual",
+    "_attachments/logo/abatab-documentation-project-logo.png",
     "Development/Source code",
-    "Source code/Abatab",
+    "Source Code/Abatab",
     "_attachments/WebpageHTMLExport_01.png",
     "_attachments/AbatabDocumentationProjectLogo.png",
-    "Source code/ThirdParty",
+    "Source Code/ThirdParty",
     "Unorganized documents/docs/images/other/vs2019-new-project-template-800x535.png",
     "Unorganized documents/docs/images/other/vs2019-empty-app-800x655.png",
     "Unorganized documents/docs/images/other/vs2019-create-new-project-800x535.png",
@@ -197,7 +198,6 @@
     "Unorganized documents/docs/styles/main.js",
     "Unorganized documents/docs/styles/main.css",
     "Unorganized documents/docs/styles/lunr.min.js",
-    "Unorganized documents/docs/styles/lunr.js",
-    "Unorganized documents/docs/styles/docfx.vendor.js"
+    "Unorganized documents/docs/styles/lunr.js"
   ]
 }

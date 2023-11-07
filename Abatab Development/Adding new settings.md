@@ -1,12 +1,10 @@
 <div align="center">
-	<img src="_attachments/logo/abatab-documentation-project-logo.png">
-	<h1>
-		Adding New Settings
-	</h1>
+
+![](_attachments/logo/abatab-documentation-project-logo.png)
+
 </div>
 
 ***
-
 <br>
 
   

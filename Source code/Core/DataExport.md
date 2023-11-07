@@ -1,13 +1,24 @@
-<!-- This documentation is incomplete. -->
-
 <div align="center">
 
 ![](_attachments/logo/abatab-documentation-project-logo.png)
-	<h1>
-		Abatab.Core.DataExport
-	</h1>
+
 </div>
 
 ***
 
 # About Abatab.Core.DataExport
+
+<br>
+<br>
+
+***
+
+<div align="center">
+	<h6>
+			This document is part of the <a href="https://spectrum-health-systems.github.io/Abatab-Documentation-Project/">Abatab Documentation Project</a>
+			<br>
+			<sub style="color:DarkSlateGrey;">
+					Last updated: <b>November 6, 2023</b> [b231106.1057]
+			</sub>
+		</h6>
+</div>

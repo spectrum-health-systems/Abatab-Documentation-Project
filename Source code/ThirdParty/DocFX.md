@@ -1,11 +1,7 @@
-<!-- This documentation is incomplete. -->
-
 <div align="center">
 
 ![](_attachments/logo/abatab-documentation-project-logo.png)
-	<h1>
-		Abatab.ThirdParty.DocFX
-	</h1>
+
 </div>
 
 ***
@@ -54,9 +50,17 @@ The content for the GitHub Pages [landing page](https://spectrum-health-systems.
 - **src/Abatab.ThirdParty/DocFx/toc.yml**  
 The header for the GitHub Pages [landing page](https://spectrum-health-systems.github.io/Abatab/)
 
+<br>
+<br>
+
+***
+
 <div align="center">
-	This document is part of the [Abatab Documentation Project](../Abatab%20Documentation%20Project.md).
-	<h5>
-			Last updated: October 12, 2023
-	</h5>
+	<h6>
+			This document is part of the <a href="https://spectrum-health-systems.github.io/Abatab-Documentation-Project/">Abatab Documentation Project</a>
+			<br>
+			<sub style="color:DarkSlateGrey;">
+					Last updated: <b>November 6, 2023</b> [b231106.1057]
+			</sub>
+		</h6>
 </div>
