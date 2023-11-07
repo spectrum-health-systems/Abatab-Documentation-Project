@@ -1,8 +1,7 @@
 <div align="center">
-	<img src="_attachments/logo/abatab-documentation-project-logo.png">
-	<h1>
-		Glossary
-	</h1>
+
+![](.github/resources/images/logos/abatab-documentation-project-logo.png)
+
 </div>
 
 ***

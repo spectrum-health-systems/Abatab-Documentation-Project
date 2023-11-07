@@ -1,6 +1,6 @@
 <div align="center">
 
-![](_attachments/logo/abatab-documentation-project-logo.png)
+![](../../.github/resources/images/logos/abatab-documentation-project-logo.png)
 
 </div>
 
