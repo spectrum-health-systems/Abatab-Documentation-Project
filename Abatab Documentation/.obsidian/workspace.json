@@ -11,8 +11,10 @@
             "id": "76de777c420fb59d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "_attachments/logo/abatab-documentation-project-logo.png"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_attachments/logo/abatab-documentation-project-logo.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_attachments/logo/abatab-documentation-project-logo.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_attachments/logo/abatab-documentation-project-logo.png"
+              }
             }
           }
         ]
@@ -160,16 +166,17 @@
     "Source code/Core/Framework.md",
     "Source code/Core/DataExport.md",
     "Source code/Core/Catalog.md",
-    "Source code/Abatab/Abatab.asmx.cs.md",
     "Abatab Development/Versioning.md",
     "Abatab Development/The Abatab source code README.md.md",
     "Abatab Development/Releases.md",
-    "Abatab Development/Logging.md",
     "Abatab Development/Adding new settings.md",
     "Abatab Development/Guidelines/XML Documentation.md",
     "Abatab Development/Guidelines/Syntax and Formatting.md",
     "Abatab Development/Guidelines/Methods.md",
     "Abatab Development/Guidelines/File Headers.md",
+    "Abatab Development/Guidelines/Comments.md",
+    "Abatab Development/Guidelines/Classes.md",
+    "_attachments/logo/abatab-documentation-project-logo.png",
     "Development/Source code",
     "Source code/Abatab",
     "_attachments/WebpageHTMLExport_01.png",
@@ -182,7 +189,6 @@
     "Unorganized documents/docs/images/other/vs2019-configure-new-project-800x535.png",
     "Unorganized documents/docs/images/other/vs2019-add-web-service-03-710x947.png",
     "Unorganized documents/docs/images/other/vs2019-add-web-service-02-710x496.png",
-    "Unorganized documents/docs/images/other/vs2019-add-web-service-01-710x742.png",
     "Unorganized documents/docs/doc/ReleaseNotes/23.0.0.html",
     "Unorganized documents/docs/styles/search-worker.js",
     "Unorganized documents/docs/styles/main.js",
