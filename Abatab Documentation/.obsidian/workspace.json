@@ -11,9 +11,12 @@
             "id": "76de777c420fb59d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "_attachments/logo/abatab-documentation-project-logo.png"
+                "file": "index.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
             }
           }
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_attachments/logo/abatab-documentation-project-logo.png",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_attachments/logo/abatab-documentation-project-logo.png",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_attachments/logo/abatab-documentation-project-logo.png"
+                "file": "index.md"
               }
             }
           }
@@ -150,6 +153,8 @@
   },
   "active": "76de777c420fb59d",
   "lastOpenFiles": [
+    "Source code/Abatab/Abatab.asmx.cs.md",
+    "_attachments/logo/abatab-documentation-project-logo.png",
     "index.md",
     "Glossary.md",
     "Source code/ThirdParty/ScriptLinkStandard.md",
@@ -175,8 +180,6 @@
     "Abatab Development/Guidelines/Methods.md",
     "Abatab Development/Guidelines/File Headers.md",
     "Abatab Development/Guidelines/Comments.md",
-    "Abatab Development/Guidelines/Classes.md",
-    "_attachments/logo/abatab-documentation-project-logo.png",
     "Development/Source code",
     "Source code/Abatab",
     "_attachments/WebpageHTMLExport_01.png",
