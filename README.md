@@ -1,6 +1,7 @@
 <div align="center">
-
-[Version 23.12 b231205]
+	<sub style="color:DarkSlateGrey;">
+			[v23.12b231205]
+	</sub>
 
 ![](.github/resources/images/logos/abatab-documentation-project-logo.png)
 
