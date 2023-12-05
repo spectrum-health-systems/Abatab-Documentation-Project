@@ -18,7 +18,7 @@ Abatab.asmx.cs is the main entry point for Abatab, so it contains the primary he
 
 ```text
 // =============================================================================
-// Abatab: A custom web service/framework for myAvatar.
+// Abatab: A custom web service/framework for Netsmart's myAvatar EHR.
 // https://github.com/spectrum-health-systems/Abatab
 // Copyright (c) A Pretty Cool Program. All rights reserved.
 // Licensed under the Apache 2.0 license.
@@ -32,31 +32,27 @@ Abatab.asmx.cs is the main entry point for Abatab, so it contains the primary he
 
 Each class has a simple header with the build number:
 
-```text
-// bYYMMDD.HHMM
-```
+`// bYYMMDD.HHMM`
 
 Example:
 
-```text
-// b231030.1043
-```
+`// b231030.1043`
 
 ## Class details
 
 All class details (description, etc.) should be contained in the XML documentation.
 
-<br>
+<!-- This footer should be at the bottom of every Abatab Documentation Project page -->
 <br>
 
 ***
 
 <div align="center">
-	<h6>
-		This document is part of the <a href="https://spectrum-health-systems.github.io/Abatab-Documentation-Project/">Abatab Documentation Project</a>
-		<br>
-		<sub style="color:DarkSlateGrey;">
-			Last updated: <b>November 6, 2023</b> [b231106.1057]
-		</sub>
-	</h6>
+
+This document is part of the
+[Abatab Documentation Project](/README.md)<br>
+	
+<sub>
+Last updated: December 5, 2023<br>
+</sub>
 </div>
