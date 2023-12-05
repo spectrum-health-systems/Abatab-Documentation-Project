@@ -16,9 +16,9 @@ The goal of The Abatab Documentation Project is to provide useful documentation 
 - [API documentation](https://spectrum-health-systems.github.io/Abatab/)
 - TBD
 
+<!-- This footer should be at the bottom of every Abatab Documentation Project page -->
 <br>
 
-<!-- This footer should be at the bottom of every Abatab Documentation Project page -->
 ***
 
 <div align="center">
@@ -28,6 +28,14 @@ This document is part of the
 	
 <sub>
 Last updated: December 5, 2023<br>
+</sub>
+</div>
+
+<!-- This footer should be at the bottom of the main Abatab Documentation Project page -->
+***
+
+<div align="center">
+<sub>
 [Abatab Documentation Project v23.12b231205]
 </sub>
 </div>

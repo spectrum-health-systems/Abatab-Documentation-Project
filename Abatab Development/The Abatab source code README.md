@@ -86,6 +86,5 @@ This document is part of the
 	
 <sub>
 Last updated: December 5, 2023<br>
-[Abatab Documentation Project v23.12b231205]
 </sub>
 </div>
