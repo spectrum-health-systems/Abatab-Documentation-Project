@@ -15,6 +15,8 @@ The goal of the Abatab Documentation Project is to provide useful documentation 
 - [API documentation](https://spectrum-health-systems.github.io/Abatab/)
 - TBD
 
+[test](/Documentation%20Project/Abatab%20Development/Adding%20new%20settings.md)
+
 <br>
 <br>
 
