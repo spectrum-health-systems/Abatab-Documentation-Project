@@ -5,7 +5,9 @@
 </sub>
 <br>
 <br>
+
 ![](.github/resources/images/logos/abatab-documentation-project-logo.png)
+
 </div>
 
 # About The Abatab Documentation Project
