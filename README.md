@@ -2,6 +2,8 @@
 	<sub style="color:DarkSlateGrey;">
 			[v23.12b231205]
 	</sub>
+	<br>
+
 
 ![](.github/resources/images/logos/abatab-documentation-project-logo.png)
 
@@ -19,7 +21,6 @@ The goal of the TDAP is to provide useful documentation for Abatab development p
 - TBD
 
 <br>
-<br>
 
 ***
 
@@ -28,7 +29,7 @@ The goal of the TDAP is to provide useful documentation for Abatab development p
 			This document is part of the <a href="https://spectrum-health-systems.github.io/Abatab-Documentation-Project/">Abatab Documentation Project</a>
 			<br>
 			<sub style="color:DarkSlateGrey;">
-					Last updated: <b>December 5, 2023</b>
+					Last updated: December 5, 2023
 			</sub>
 		</h6>
 </div>
