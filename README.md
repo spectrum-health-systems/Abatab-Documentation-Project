@@ -1,6 +1,6 @@
 <!-- This header should be at the top of every Abatab Documentation Project page -->
 <div align="center">
-	<sub style="color:LightGray;">
+	<sub style="color:Tomato;">
 		[v23.12b231205]
 	</sub>
 	<br>
@@ -28,9 +28,9 @@ The goal of The Abatab Documentation Project is to provide useful documentation 
 
 <div align="center">
 
-This document is part of the
+	This document is part of the
 [Abatab Documentation Project](/README.md)<br>
-<sub style="color:DarkSlateGrey;">
-		Last updated: December 5, 2023
-</sub>
+	<sub style="color:DarkSlateGrey;">
+			Last updated: December 5, 2023
+	</sub>
 </div>
