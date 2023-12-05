@@ -1,6 +1,6 @@
 <!-- This header should be at the top of every Abatab Documentation Project page -->
 <div align="center">
-<sub style="color:LightGrey;">
+<sub style="color:LightGray;">
 [v23.12b231205]
 </sub>
 <br>
