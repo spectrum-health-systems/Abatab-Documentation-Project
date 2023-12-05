@@ -28,6 +28,6 @@ This document is part of the
 	
 <sub>
 Last updated: December 5, 2023<br>
-[v23.12b231205]
+[Abatab Documentation Project v23.12b231205]
 </sub>
 </div>
