@@ -27,7 +27,7 @@ This document is part of the
 [Abatab Documentation Project](/README.md)<br>
 	
 <sub>
-Last updated: December 5, 2023
+Last updated: December 5, 2023<br>
 [v23.12b231205]
 </sub>
 </div>
