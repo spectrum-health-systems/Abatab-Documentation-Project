@@ -1,25 +1,24 @@
+<!-- This header should be at the top of every Abatab Documentation Project page -->
 <div align="center">
 
-![](../../.github/resources/images/logos/abatab-documentation-project-logo.png)
+![](../.github/resources/images/logos/abatab-documentation-project-logo.png)
 
 </div>
 
-***
-
 # About the Abatab Source Code README
 
-The Abatab [Source Code README.md file](https://github.com/spectrum-health-systems/Abatab/blob/main/src/Abatab/README.md) (Abatab/README.md) version information, and is updated with each release.
+The Abatab [Source Code README.md file](https://github.com/spectrum-health-systems/Abatab/blob/main/src/Abatab/README.md) (Abatab/README.md) version information, and is updated with each release, ensuring that all release-specific information is in a standard location.
 
 ## Development releases
 
-During active development, the build number is `bDEVELOPMENT`, and is only changed to `bYYMMDD` when released.
+During active development, the build information is `DEVELOPMENT`, and is only changed to `bYYMMDD` when a stable version of Abatab is released.
 
 ```
 <!-- 
 	Abatab Source Code Readme
 -->
 
-Abatab v23.11.0-b231101
+Abatab v23.11.0-DEVELOPMENT
 
 # Development Release
 
@@ -27,116 +26,66 @@ This is a [Development Release](https://github.com/spectrum-health-systems/Abata
 
 For production environments, please see the [Abatab Community Release](https://github.com/spectrum-health-systems/Abatab-Community-Release).
 
-For more information about Abatab, please visit the [The Abatab Documenation Project](https://spectrum-health-systems.github.io/Abatab-Documentation-Project/)
+For more information about Abatab, please visit the [The Abatab Documenation Project](https://github.com/spectrum-health-systems/Abatab-Documentation-Project)
+
+Abatab is copyright (c) A Pretty Cool Program, and licensed under the Apache 2.0 license.  
+```
+
+## Stable release
+
+When a stable version of Abatab is released, the build information is changed from `DEVELOPMENT` to `bYYMMDD`.
+
+```
+<!-- 
+	Abatab Source Code Readme
+-->
+
+Abatab v23.11.0-b231205
+
+# Stable Release
+
+This is a [stable release](https://github.com/spectrum-health-systems/Abatab) of Abatab.
+
+While this version of Abatab can be used in production environments, it is recommended that you use the [Abatab Community Release](https://github.com/spectrum-health-systems/Abatab-Community-Release).
+
+For more information about Abatab, please visit the [The Abatab Documenation Project](https://github.com/spectrum-health-systems/Abatab-Documentation-Project)
 
 Abatab is copyright (c) A Pretty Cool Program, and licensed under the Apache 2.0 license.  
 ```
 
 ## Community Release
 
-The Abatab Community Release is based on the latest stable development release.
+The Abatab community release is based on a stable release of Abatab, and is released quarterly with the following naming structure:
 
-#### Template
+- December 20: Abatab WinterYY
+- March 20: Abatab SpringYY
+- June 20: Abatab SummerYY
+- September 20: Abatab AutumnYY
+
+For example: `Abatab Autumn23`
 
 ```
-Abatab v23.11.0-b231101
+Abatab Autumn23
 
 # Community Release
 
-This is an Abatab [Community Release](https://github.com/spectrum-health-systems/Abatab-Community-Release).
+This is an [Abatab Community Release](https://github.com/spectrum-health-systems/Abatab-Community-Release), based on v23.12 [Abatab stable release](https://github.com/spectrum-health-systems/Abatab).
 
-For Abatab development, please see the  [Development Release](https://github.com/spectrum-health-systems/Abatab).
-
-For more information about Abatab, please visit the [The Abatab Documenation Project](https://spectrum-health-systems.github.io/Abatab-Documentation-Project/)
+For more information about Abatab, please visit the [The Abatab Documenation Project](https://github.com/spectrum-health-systems/Abatab-Documentation-Project)
 
 Abatab is copyright (c) A Pretty Cool Program, and licensed under the Apache 2.0 license.    
 ```
 
-#### Example
-
-```
-# About this release
-
-This is **v23.11.0-development+b231101** of Abatab, a custom web service/framework for myAvatar.
-
-This is a [development version](https://github.com/spectrum-health-systems/Abatab) of Abatab, and is not intended for use in production environments.
-
-For production environments, please see the [Abatab Community Release](https://github.com/spectrum-health-systems/Abatab-Community-Release).
-
-For more information about Abatab, please visit the [The Abatab Documenation Project](https://spectrum-health-systems.github.io/Abatab-Documentation-Project/)
-
-Abatab is copyright (c) A Pretty Cool Program, and licensed under the Apache 2.0 license.  
-```
-
-
-
-## General information
-
-This information is static, so it doesn't change when new versions are released.
-
-```
-# Abatab
-
-A custom web service/framework for myAvatar.
-https://github.com/spectrum-health-systems/Abatab
-Copyright (c) A Pretty Cool Program. All rights reserved.
-Licensed under the Apache 2.0 license.
-```
-
-## Release information
-
-In general, this information is modified when releasing.
-
-### Development release
-
-```
-# Release information
-
-This is a development version of Abatab, and is not intended for use in  
-production environments.
-
-For production environments, please visit the Abatab Community Release:  
-https://github.com/spectrum-health-systems/Abatab-Community-Release
-```
-
-### Community Release
-
-```
-# Release information
-
-This is an Abatab Community Release.
-
-For development versions of Abatab, please visit the Abatab repository:  
-https://github.com/spectrum-health-systems/Abatab
-```
-
-## Documentation
-
-Information about Abatab documentation, which doesn't change.
-
-```
-# Documentation
-
-### APIs
-Documentation for Abatab APIs can be found here:
-https://spectrum-health-systems.github.io/Abatab/api/
-
-### The Abatab Documentation Project
-For more information about Abatab, please see the Abatab Documenation Project
-https://spectrum-health-systems.github.io/Abatab-Documentation-Project/
-```
-
-<br>
-<br>
-
+<!-- This footer should be at the bottom of every Abatab Documentation Project page -->
 ***
 
 <div align="center">
-	<h6>
-		This document is part of the <a href="https://spectrum-health-systems.github.io/Abatab-Documentation-Project/">Abatab Documentation Project</a>
-		<br>
-		<sub style="color:DarkSlateGrey;">
-			Last updated: <b>November 6, 2023</b> [b231106.1057]
-		</sub>
-	</h6>
+
+This document is part of the
+[Abatab Documentation Project](/README.md)<br>
+	
+<sub>
+Last updated: December 5, 2023<br>
+[Abatab Documentation Project v23.12b231205]
+</sub>
 </div>
