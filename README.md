@@ -1,19 +1,18 @@
+<!-- This header should be at the top of every Abatab Documentation Project page -->
 <div align="center">
-	<sub style="color:DarkSlateGrey;">
-			[v23.12b231205]
-	</sub>
-	<br>
-	<br>
-
+<sub style="color:DarkSlateGrey;">
+[v23.12b231205]
+</sub>
+<br>
+<br>
 ![](.github/resources/images/logos/abatab-documentation-project-logo.png)
-
 </div>
 
-# About The Abatab Documentation Project (TDAP)
+# About The Abatab Documentation Project
 
-The Abatab Documentation Project (TDAP) is a living document for [Abatab](https://github.com/spectrum-health-systems/Abatab).
+The Abatab Documentation Project is a living document for [Abatab](https://github.com/spectrum-health-systems/Abatab).
 
-The goal of the TDAP is to provide useful documentation for Abatab development purposes, including:
+The goal of The Abatab Documentation Project is to provide useful documentation for Abatab development purposes, including:
 
 - Documentation on configuring and deploying Abatab
 - Documentation and guidelines for developing Abatab
@@ -22,6 +21,7 @@ The goal of the TDAP is to provide useful documentation for Abatab development p
 
 <br>
 
+<!-- This footer should be at the bottom of every Abatab Documentation Project page -->
 ***
 
 <div align="center">
