@@ -1,10 +1,5 @@
 <!-- This header should be at the top of every Abatab Documentation Project page -->
 <div align="center">
-	<sub style="color:Tomato;">
-		[v23.12b231205]
-	</sub>
-	<br>
-	<br>
 
 ![](.github/resources/images/logos/abatab-documentation-project-logo.png)
 
@@ -30,7 +25,10 @@ The goal of The Abatab Documentation Project is to provide useful documentation 
 
 	This document is part of the
 [Abatab Documentation Project](/README.md)<br>
-	<sub style="color:DarkSlateGrey;">
-			Last updated: December 5, 2023
-	</sub>
+	
+<sub>
+Last updated: December 5, 2023
+<br>
+[v23.12b231205]
+</sub>
 </div>
