@@ -1,10 +1,10 @@
 <!-- This header should be at the top of every Abatab Documentation Project page -->
 <div align="center">
-<sub style="color:LightGray;">
-[v23.12b231205]
-</sub>
-<br>
-<br>
+	<sub style="color:LightGray;">
+		[v23.12b231205]
+	</sub>
+	<br>
+	<br>
 
 ![](.github/resources/images/logos/abatab-documentation-project-logo.png)
 
