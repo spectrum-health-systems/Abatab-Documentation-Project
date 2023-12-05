@@ -27,8 +27,7 @@ The goal of the TDAP is to provide useful documentation for Abatab development p
 <div align="center">
 
 This document is part of the
-[Abatab Documentation Project](/README.md)
-
+[Abatab Documentation Project](/README.md)<br>
 <sub style="color:DarkSlateGrey;">
 		Last updated: December 5, 2023
 </sub>
