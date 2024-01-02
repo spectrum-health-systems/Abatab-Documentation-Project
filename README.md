@@ -1,4 +1,8 @@
-<!-- This header should be at the top of every Abatab Documentation Project page -->
+<!--
+  This header should be at the top of every Abatab Documentation Project page.
+  b240102
+-->
+
 <div align="center">
 
 ![](.github/resources/images/logos/abatab-documentation-project-logo.png)
@@ -9,14 +13,17 @@
 
 The Abatab Documentation Project is a living document for [Abatab](https://github.com/spectrum-health-systems/Abatab).
 
-The goal of The Abatab Documentation Project is to provide useful documentation for Abatab development purposes, including:
+The goal of The Abatab Documentation Project is to provide:
 
 - Documentation on configuring and deploying Abatab
 - Documentation and guidelines for developing Abatab
 - [API documentation](https://spectrum-health-systems.github.io/Abatab/)
 - TBD
 
-<!-- This footer should be at the bottom of every Abatab Documentation Project page -->
+<!--
+  This footer should be at the bottom of every Abatab Documentation Project page.
+-->
+
 <br>
 
 ***
@@ -27,7 +34,7 @@ This document is part of the
 [Abatab Documentation Project](/README.md)<br>
 	
 <sub>
-Last updated: December 5, 2023<br>
+Last updated: January 2, 2024<br>
 </sub>
 </div>
 
@@ -36,6 +43,6 @@ Last updated: December 5, 2023<br>
 
 <div align="center">
 <sub>
-[Abatab Documentation Project v23.12b231205]
+[ Abatab Documentation Project v24.01b240102 ]
 </sub>
 </div>
