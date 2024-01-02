@@ -20,8 +20,9 @@ Abatab is heavily commented, with the intention of making sure all functionality
 # Narrative comments
 
 ```text
-/* Narrative comments are enclosed with provide provide additional information or     narrative about a block of code.
-*/
+/* Narrative comments are enclosed with provide provide additional information or 
+ * narrative about a block of code.
+ */
 ```
 
 # Prefixes

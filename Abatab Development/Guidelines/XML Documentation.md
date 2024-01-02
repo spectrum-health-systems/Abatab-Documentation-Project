@@ -266,6 +266,17 @@ This example of an XML documentation comment details the correct tag order:
 /// <value>Default value is <c>false</c></value>
 ```
 
+This belongs somewhere:
+
+```csharp
+/// <summary>Executing assembly name for log files.</summary>
+/// <remarks>
+///     - The executing assembly is defined at the start of the class so it can be easily used throughout the
+///       method when creating log files.
+/// </remarks>
+``````
+
+
 <br>
 <br>
 
