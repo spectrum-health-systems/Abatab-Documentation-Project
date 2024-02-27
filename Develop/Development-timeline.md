@@ -48,7 +48,7 @@ gantt
   Release : 1d
 ```
 
-[< BACK](README.md)
+[< BACK](.README.md)
 
 <!-- This footer should be at the bottom of Abatab Documentation Project pages. -->
 
