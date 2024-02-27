@@ -25,16 +25,8 @@ The goal of The Abatab Documentation Project is to provide:
 
 <div align="center">
 
-<bold>This document is part of the
-[Abatab Documentation Project](/README.md)</bold><br>
-Last updated: February 27, 2024<br>
+<b>This document is part of the
+[Abatab Documentation Project](/README.md)</b><br>
+Last updated: February 27, 2024 [v24.2]<br>
 
-</div>
-
-***
-
-<div align="center">
-<sub>
-[ v24.01 ]
-</sub>
 </div>
