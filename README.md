@@ -12,15 +12,23 @@ The Abatab Documentation Project is a living document for [Abatab](https://githu
 
 # Contents
 
-## Development
+### Development
+
+#### APIs
+
+#### Source code
 
 ## Deployment
 
-## API
+## Usage
 
 ## Other
 
 ### Glossary
+
+### Changelog
+
+### Roadmap
 
 <!-- This footer should be at the bottom of every Abatab Documentation Project page. -->
 
