@@ -4,6 +4,9 @@
 
 ![](.github/resources/images/logos/abatab-documentation-project-logo.png)
 
+
+  ![Release](https://img.shields.io/badge/release-24.2-brightgreen?style=flat)
+
 </div>
 
 # The Abatab Documentation Project
@@ -12,13 +15,12 @@ The Abatab Documentation Project is a living document for [Abatab](https://githu
 
 The goals of this project are to provide:
 
-* Technical information about Abatab [development](/Develop/README.md)
-* Abatab [configuration](/Configure/README.md) documentation
-* Documentation for [configuring](/Configure/README.md) and [deploy](/Deploy/README.md) Abatab
+* Technical information about the Abatab [development](/Develop/README.md) process
+* Documentation for [configuring](/Configure/README.md) and [deploying](/Deploy/README.md) Abatab
 * The Abatab [User Manual](/Manual/README.md)
 * Additional Abatab information
 
-<!-- This footer should be at the bottom of every Abatab Documentation Project page. -->
+<!-- This footer should be at the bottom of the main Abatab Documentation Project page. -->
 
 <br>
 

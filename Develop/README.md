@@ -330,8 +330,6 @@ flowchart LR
 
 ```
 
-
-
 <!-- This footer should be at the bottom of every Abatab Documentation Project page. -->
 
 <br>
@@ -342,6 +340,6 @@ flowchart LR
 
 <b>This document is part of the
 [Abatab Documentation Project](/README.md)</b><br>
-Last updated: February 27, 2024 [v24.2]<br>
+Last updated: February 27, 2024<br>
 
 </div>
