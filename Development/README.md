@@ -10,7 +10,7 @@
 
 # Abatab development
 
-## Development timeline
+# Development timeline
 
 Abatab development takes place across five phases:
 
@@ -19,21 +19,6 @@ Abatab development takes place across five phases:
 flowchart LR
   Refactor --> Pre-Development --> Development --> Testing --> Release
 ```
-
-1. **Refactor**  
-Prior to developing a new version of Abatab, the previous version should be cleaned up and refactored.
-
-2. **Pre-development**  
-Features/fixes that will be included in the development version are decided upon.
-
-3. **Development**  
-Development of features/fixes.
-
-4. **Testing**  
-Regression testing.
-
-5. **Release**  
-Development version release.
 
 ```mermaid
 %%{init: {'theme':'dark'}}%%
@@ -47,6 +32,22 @@ gantt
   Testing : 2d
   Release : 1d
 ```
+
+## Refactor 
+Prior to developing a new version of Abatab, the previous version should be cleaned up and refactored.
+
+## Pre-development 
+Features/fixes that will be included in the development version are decided upon.
+
+## Development
+Development of features/fixes.
+
+## Testing  
+Regression testing.
+
+## Release  
+Development version release.
+
 
 # Pre-development
 
