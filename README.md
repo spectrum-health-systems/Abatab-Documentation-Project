@@ -12,9 +12,10 @@ The Abatab Documentation Project is a living document for [Abatab](https://githu
 
 The goals of this project are to provide:
 
-* Detailed guidelines and technical information about Abatab [development]()
-* Documentation for [configuring and deploying]() Abatab.
-* An Abatab [User Manual]()
+* Technical information about Abatab [development](/Develop/README.md)
+* Abatab [configuration](/Configure/README.md) documentation
+* Documentation for [configuring](/Configure/README.md) and [deploy](/Deploy/README.md) Abatab
+* The Abatab [User Manual](/Manual/README.md)
 * Additional Abatab information
 
 <!-- This footer should be at the bottom of every Abatab Documentation Project page. -->
