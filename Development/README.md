@@ -1,10 +1,10 @@
-<!--
-  README.md for development branches of Abatab.
+<!-- u240227 -->
 
-  Flowcharts:
-    - Class names are BackgroundTextBorder
-    - Color names/HEX codes from https://coolors.co
--->
+<div align="center">
+
+![](.github/resources/images/logos/abatab-documentation-project-logo.png)
+
+</div>
 
 <div align="center">
 
@@ -328,4 +328,20 @@ flowchart LR
   class Refactor,CleanUp GreenAAD576BlackBlack
   class FirstDayOfTheMonth WhiteBlackBlack
 
-```>
+```
+
+
+
+<!-- This footer should be at the bottom of every Abatab Documentation Project page. -->
+
+<br>
+
+***
+
+<div align="center">
+
+<b>This document is part of the
+[Abatab Documentation Project](/README.md)</b><br>
+Last updated: February 27, 2024 [v24.2]<br>
+
+</div>
