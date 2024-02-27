@@ -20,7 +20,7 @@ The goals of this project are to provide:
 * The Abatab [User Manual](/Manual/README.md)
 * Additional Abatab information
 
-<!-- This footer should be at the bottom of the main Abatab Documentation Project page. -->
+<!-- This footer should be at the bottom of Abatab Documentation Project pages. -->
 
 <br>
 
@@ -29,7 +29,7 @@ The goals of this project are to provide:
 <div align="center">
 
 <b>This document is part of the
-[Abatab Documentation Project](/README.md)</b><br>
-Last updated: February 27, 2024 [v24.2]<br>
+[Abatab Documentation Project](https://github.com/spectrum-health-systems/Abatab-Documentation-Project)</b><br>
+Last updated: February 27, 2024<br>
 
 </div>

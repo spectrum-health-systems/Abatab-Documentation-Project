@@ -8,44 +8,9 @@
 
 <div align="center">
 
-  <br>
+<br>
 
-  ![BranchWarning](https://img.shields.io/badge/THIS%20IS-A%20DEVELOPMENT%20VERSION%20BRANCH-FF160C?style=for-the-badge) ![BranchWarning](https://img.shields.io/badge/OF-%20SOFTWARE%20THAT%20HAS%20NOT%20BEEN%20TESTED-FF160C?style=for-the-badge) 
 
-  ***SO...***
-
-  <h2>
-
-  **DO NOT USE THIS SOURCE CODE IN PRODUCTION ENVIRONMENTS!**
-
-  </h2>
-
-  If you want to use Abatab in a production environment, please see the [Abatab Community Release](https://github.com/spectrum-health-systems/Abatab-Community-Release).
-
-  ***
-
-  <br>
-  
-  ![AbatabLogo](./.github/images/logo/app/AbatabLogo.png)
-
-  <br>
-
-  ![RepoStatus](https://img.shields.io/badge/status-Active-brightgreen?style=flat)&nbsp;&nbsp;![AbatabLicense](https://img.shields.io/github/license/spectrum-health-systems/abatab)&nbsp;&nbsp;![AbatabCurrentRelease](https://img.shields.io/github/v/release/spectrum-health-systems/Abatab?style=flat)
-
-</div>
-
-***
-
->This repository is a **development version** of Abatab, which **is not intended for use in production environments**.  
->
->Abatab development, and its repositories are a little different than most source code repositories. This document  
-> will detail what those differences are, and why they exist.  
->
->If you want to use Abatab in a production environment, please see the [Abatab Community Release](https://github.com/spectrum-health-systems/Abatab-Community-Release).  
->
->If you are looking for the most recent stable release of Abatab, please see the Abatab [main branch](https://github.com/spectrum-health-systems/Abatab).
-
-***
 
 # Abatab development
 
@@ -330,7 +295,7 @@ flowchart LR
 
 ```
 
-<!-- This footer should be at the bottom of every Abatab Documentation Project page. -->
+<!-- This footer should be at the bottom of Abatab Documentation Project pages. -->
 
 <br>
 
@@ -339,7 +304,7 @@ flowchart LR
 <div align="center">
 
 <b>This document is part of the
-[Abatab Documentation Project](/README.md)</b><br>
+[Abatab Documentation Project](https://github.com/spectrum-health-systems/Abatab-Documentation-Project)</b><br>
 Last updated: February 27, 2024<br>
 
 </div>
