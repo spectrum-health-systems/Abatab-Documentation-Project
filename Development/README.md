@@ -8,9 +8,9 @@
 
 <br>
 
-A blurb about Abatab development.
+# Abatab development
 
-***
+A blurb about Abatab development.
 
 # Development timeline
 
@@ -20,6 +20,7 @@ Abatab development takes place across five phases:
 %%{init: {'theme':'dark'}}%%
 flowchart LR
   Refactor --> Pre-Development --> Development --> Testing --> Release
+  click Refactor "#refactor
 ```
 
 ```mermaid
