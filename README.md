@@ -10,17 +10,17 @@
 
 The Abatab Documentation Project is a living document for [Abatab](https://github.com/spectrum-health-systems/Abatab).
 
-The goal of The Abatab Documentation Project is to provide:
-
-- Documentation and guidelines for developing Abatab
-- Documentation on configuring and deploying Abatab
-- Abatab [API documentation](https://spectrum-health-systems.github.io/Abatab/)
-- A [glossary]() of Abatab/myAvatar terminology
-
 # Contents
 
 ## Development
 
+## Deployment
+
+## API
+
+## Other
+
+### Glossary
 
 <!-- This footer should be at the bottom of every Abatab Documentation Project page. -->
 
