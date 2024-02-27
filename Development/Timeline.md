@@ -8,7 +8,7 @@
 
 <br>
 
-[< BACK](/README.md)
+[< Back to development documentation](README.md)
 
 # Abatab development timeline
 
@@ -47,10 +47,9 @@ gantt
   Testing : 2d
   Release : 1d
 ```
-
-[< BACK](README.md)
-
 <!-- This footer should be at the bottom of Abatab Documentation Project pages. -->
+
+[< Back to development documentation](README.md)
 
 <br>
 
