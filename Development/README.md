@@ -12,7 +12,7 @@
 
 A blurb about Abatab development.
 
-# Development timeline
+# Development phases
 
 Abatab development takes place across five phases:
 
@@ -20,24 +20,27 @@ Abatab development takes place across five phases:
 %%{init: {'theme':'dark'}}%%
 flowchart LR
   Refactor --> Pre-Development --> Development --> Testing --> Release
-  click Refactor "#refactor
-```
 
-```mermaid
-%%{init: {'theme':'dark'}}%%
-gantt
-  title Abatab development
-  dateFormat X
-  axisFormat %d
-  Refactor : 0, 5d
-  Pre-Development : 1d
-  Development : 22d
-  Testing : 2d
-  Release : 1d
+  classDef Green245501WhiteBlack fill:#245501, color:#FFFFFF, stroke:#000000,stroke-width:2px
+
+  class Refactor Green245501WhiteBlack
 ```
 
 ## Refactor 
-Prior to developing a new version of Abatab, the previous version should be cleaned up and refactored.
+
+```mermaid
+flowchart LR
+  ArchivePreviousDevelopmentBranch[Archive previous development branch] --> CreateNewDevelopmentBranch[Create new development branch] --> Refactor --> CleanUp
+  
+
+  classDef Green245501WhiteBlack fill:#245501,color:#FFFFFF,stroke:#000000,stroke-width:2px;
+  
+  class ArchivePreviousDevelopmentBranch,CreateNewDevelopmentBranch,Refactor,CleanUp Green245501WhiteBlack;
+```
+
+### Archive previous development branch
+
+### Create new development branch
 
 ## Pre-development 
 Features/fixes that will be included in the development version are decided upon.
@@ -51,49 +54,20 @@ Regression testing.
 ## Release  
 Development version release.
 
+## Timeline
 
-# Pre-development
-
-## Create new development branch
-
-What this is.
-
-`MM.DD-development`
-
-# Code review
-
-Desc
-
-## Refactor
-
-Desc
-
-## Clean-up
-
-Desc
-
-# Development
-
-Desc
-
-# Testing
-
-Production environment
-
-# Post-development
-
-## Archive previous development branch
-
-What this is.
-
-* `MM.DD-development`  
-Desc
-* `MM.DD-stable`  
-Desc
-* `MM.DD-hotfix`  
-Desc
-* `MM.DD-community`  
-Desc
+```mermaid
+%%{init: {'theme':'dark'}}%%
+gantt
+  title Development timeline
+  dateFormat X
+  axisFormat %d
+  Refactor : 0, 5d
+  Pre-Development : 1d
+  Development : 22d
+  Testing : 2d
+  Release : 1d
+```
 
 
 
@@ -122,22 +96,7 @@ During monthly development and testing:
 
 Pre-development includes creating a new monthly development branch, and spending a few days refactoring and cleaning up the code and comments. This should be done prior to staring the development of new features, so the entire code base can be tested.
 
-```mermaid
-flowchart LR
-  ArchivePreviousMonthlyDevelopmentBranch("Archive previous monthly\n development branch") --> CreateNewMonthlyDevelopmentBranch(Create new monthly\ndevelopment branch)
-  CreateNewMonthlyDevelopmentBranch --> Refactor(Refactor) --> CleanUp(Clean-up)
-  
-  %%classDef Green1A4301BlackBlack fill:#1A4301, color:#000000, stroke:#000000,stroke-width:2px
-  classDef Green245501WhiteBlack fill:#245501, color:#FFFFFF, stroke:#000000,stroke-width:2px
-  classDef Green73A942WhiteBlack fill:#73A942, color:#FFFFFF, stroke:#000000,stroke-width:2px
-  classDef GreenAAD576BlackBlack fill:#AAD576, color:#000000, stroke:#000000,stroke-width:2px
-  classDef WhiteBlackBlack fill:#FFFFFF, color:#000000, stroke:#000000,stroke-width:2px
-  
-  class ArchivePreviousMonthlyDevelopmentBranch Green245501WhiteBlack
-  class CreateNewMonthlyDevelopmentBranch Green73A942WhiteBlack
-  class Refactor,CleanUp GreenAAD576BlackBlack
-  class FirstDayOfTheMonth WhiteBlackBlack
-```
+
 
 ### Archive the previous monthly development branch
 
