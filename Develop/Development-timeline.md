@@ -19,20 +19,19 @@ flowchart LR
 ```
 
 1. **Refactor**  
-Description
+Prior to developing a new version of Abatab, the previous version should be cleaned up and refactored.
 
 2. **Pre-development**  
-Description
+Features/fixes that will be included in the development version are decided upon.
 
 3. **Development**  
-Description
+Development of features/fixes.
 
 4. **Testing**  
-Description
+Regression testing.
 
 5. **Release**  
-Description
-
+Development version release.
 
 ```mermaid
 %%{init: {'theme':'dark'}}%%
@@ -41,9 +40,9 @@ gantt
   dateFormat X
   axisFormat %d
   Refactor : 0, 5d
-  Pre-Development : 2d
-  Development : 20d
-  Testing : 3d
+  Pre-Development : 1d
+  Development : 22d
+  Testing : 2d
   Release : 1d
 ```
 
