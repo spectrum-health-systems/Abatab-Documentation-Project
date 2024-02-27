@@ -1,7 +1,4 @@
-<!--
-  This header should be at the top of every Abatab Documentation Project page.
-  b240102
--->
+<!-- u240227 -->
 
 <div align="center">
 
@@ -9,7 +6,7 @@
 
 </div>
 
-# About The Abatab Documentation Project
+# The Abatab Documentation Project
 
 The Abatab Documentation Project is a living document for [Abatab](https://github.com/spectrum-health-systems/Abatab).
 
