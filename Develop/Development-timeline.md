@@ -8,22 +8,6 @@
 
 <br>
 
-# Abatab development
-
-```mermaid
-%%{init: {'theme':'dark'}}%%
-gantt
-  title Abatab development timeline
-  dateFormat X
-  axisFormat %d
-  Pre-development : 0, 1d
-  Code review : 3d
-  Development : 23d
-  Testing : 2d
-  Post-development : 2d
-```
-
-</div>
 
 # Pre-development
 
