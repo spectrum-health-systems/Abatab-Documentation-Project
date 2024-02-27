@@ -8,17 +8,43 @@
 
 <br>
 
+# Abatab development timeline
+
+Abatab development takes place across five phases:
+
+```mermaid
+%%{init: {'theme':'dark'}}%%
+flowchart LR
+  Refactor -> Pre-Development --> Development --> Testing --> Release
+```
+
+1. **Refactor**  
+Description
+
+2. **Pre-development**  
+Description
+
+3. **Development**  
+Description
+
+4. **Testing**  
+Description
+
+5. **Release**  
+Description
+
+
 ```mermaid
 %%{init: {'theme':'dark'}}%%
 gantt
-  title Abatab development timeline
+  title Abatab development
   dateFormat X
   axisFormat %d
-  Pre-development : 0, 1d
-  Code review : 3d
-  Development : 23d
-  Testing : 2d
-  Post-development : 2d
+  Refactor : 0, 5d
+  Pre-Development : 2d
+  Development : 20d
+  Testing : 3d
+  Release : 1d
 ```
 
 <!-- This footer should be at the bottom of Abatab Documentation Project pages. -->
