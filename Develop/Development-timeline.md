@@ -15,7 +15,7 @@ Abatab development takes place across five phases:
 ```mermaid
 %%{init: {'theme':'dark'}}%%
 flowchart LR
-  Refactor -> Pre-Development --> Development --> Testing --> Release
+  Refactor --> Pre-Development --> Development --> Testing --> Release
 ```
 
 1. **Refactor**  
