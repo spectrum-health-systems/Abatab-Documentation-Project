@@ -4,7 +4,6 @@
 
 ![](.github/resources/images/logos/abatab-documentation-project-logo.png)
 
-
   ![Release](https://img.shields.io/badge/release-24.2-brightgreen?style=flat)
 
 </div>

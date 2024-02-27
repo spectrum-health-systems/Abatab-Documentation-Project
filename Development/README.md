@@ -2,13 +2,15 @@
 
 <div align="center">
 
-![](.github/resources/images/logos/abatab-documentation-project-logo.png)
+![](../.github/resources/images/logos/abatab-documentation-project-logo.png)
 
 </div>
 
 <br>
 
 # Abatab development
+
+A blurb about Abatab development.
 
 # Development timeline
 
