@@ -8,8 +8,6 @@
 
 <br>
 
-[< Back to development documentation](README.md)
-
 # Abatab development timeline
 
 Abatab development takes place across five phases:
